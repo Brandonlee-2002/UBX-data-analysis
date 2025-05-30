@@ -1,4 +1,5 @@
-
+match-deltas.csv
+rating-snapshots.csv
 .DS_Store
 
 # Ignore the .venv and .idea directories inside UBX_World
