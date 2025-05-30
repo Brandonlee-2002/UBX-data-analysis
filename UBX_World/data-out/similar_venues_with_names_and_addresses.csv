@@ -1,0 +1,252 @@
+Venue1_Id,Venue2_Id,Venue1_Name,Venue2_Name,Venue1_StreetAddress,Venue2_StreetAddress,Similarity
+2,61,Shula's Hotel and Golf Club,Shula's Hotel & Golf Club,6842 Main Street,6842 Main Street,0.8888888888888888
+4,33,Bay Badminton,Bay Badminton Club,1611 Adrian Road,1611 Adrian Road,0.8333333333333334
+4,88,Bay Badminton,Bay Badminton Center,1611 Adrian Road,1611 Adrian Road,0.8333333333333334
+8,134,Orange County Badminton Club,Orange County Badminton CLub,1432 North Main Street,1432 North Main Street,1.0
+10,509,Wiener Stadthalle - Halle B,Wiener Stadthalle B,Vogelweidplatz 14,Vogelweidplatz 14,0.8333333333333334
+11,942,Balboa Park Activity Center,Balboa Activity Center,2145 Park Blvd,2145 Park Blvd,1.0
+14,219,RWE-Sporthalle,RWE - Sporthalle,An den Sportstätten 6,An den Sportstätten 6,1.0
+23,84,LABC - Los Angeles Badminton Club,Los Angeles Badminton Club (LABC),10410 Valley Blvd.,10410 Valley Blvd.,1.0
+23,221,LABC - Los Angeles Badminton Club,LOS ANGELES BADMINTON CLUB (LABC),10410 Valley Blvd.,10410 Valley Blvd,1.0
+26,123,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club I,9255 Telstar Ave,9255 Telstar Ave,0.8888888888888888
+26,128,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club 1,9255 Telstar Ave,9255 Telstar Ave,0.8888888888888888
+27,75,MIT Rockwell Cage,"MIT, Rockwell Cage",Vassar Street,120 Vassar Street,0.8333333333333334
+27,138,MIT Rockwell Cage,"Rockwell Cage, MIT",Vassar Street,120 Vassar Street,0.8333333333333334
+47,81,CP Badminton Club(CPBC),CP Badminton Club (CPBC),20-24 119th Street,20-24 119th Street,1.0
+47,98,CP Badminton Club(CPBC),CP Badminton Club,20-24 119th Street,20-24 119th Street,0.875
+51,646,Shula's Athletic Club,Don Shula's Athletic Club,15150 Bull Run Road,15150 Bull Run Road,0.8888888888888888
+69,86,JOHN BOWNE HS gym,JOHN BOWNE HS GYM,63-25 Main Street,63-25 Main Street,1.0
+75,138,"MIT, Rockwell Cage","Rockwell Cage, MIT",120 Vassar Street,120 Vassar Street,1.0
+81,98,CP Badminton Club (CPBC),CP Badminton Club,20-24 119th Street,20-24 119th Street,0.875
+82,763,Boston Badminton Club,Boston Badminton club,169 Flanders Rd,169 Flanders Rd,1.0
+83,87,San Gabriel Valley Badminton Club II,San Gabriel Valley Bamdinton Club II,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+83,238,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club #2,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+83,253,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club II: Pomona,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,339,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club 2,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+83,650,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club 2: Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+83,700,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club (SGVBC),3410 Pomona Blvd,3410 Pomona Blvd,0.8
+83,897,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club - Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+84,221,Los Angeles Badminton Club (LABC),LOS ANGELES BADMINTON CLUB (LABC),10410 Valley Blvd.,10410 Valley Blvd,1.0
+87,253,San Gabriel Valley Bamdinton Club II,San Gabriel Valley Badminton Club II: Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+100,187,Cambie Secondary School,Cambie Secondary,4151 Jacombs Road,4151 Jacombs Road,0.8333333333333334
+119,153,SGVBC Pomona,SGVBC II POMONA,3410 Pomona Blvd,3410 Pomona Blvd.,0.8
+119,440,SGVBC Pomona,SGVBC 2 POMONA,3410 Pomona Blvd,3410 POMONA BLVD,0.8
+119,840,SGVBC Pomona,SGVBC 2 Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+123,128,San Gabriel Valley Badminton Club I,San Gabriel Valley Badminton Club 1,9255 Telstar Ave,9255 Telstar Ave,0.8
+136,230,University of Central Oklahoma- Wellness Center,University of Central Oklahoma - Wellness Center,100 N. University Drive,100 N. University Drive,1.0
+137,340,Siri Fort Indoor Stadium,"Siri Fort Indoor Stadium,","Siri Fort Complex, Siri Fort Road","Siri Fort Complex,",0.8333333333333334
+139,1093,University of Arizona Student Recreation Center,University Of Arizona Recreation Center,1400 E 6TH ST,1400 E 6th St Tucson,0.8181818181818182
+144,200,Badminton Center Court,Badminton Center Court Inc.,3699 Industry Avenue,3699 Industry Avenue,0.8571428571428571
+147,367,Boston Badminton Center,Boston Badminton,169 Flanders Road,169 Flanders Road,0.8333333333333334
+148,1286,International Badminton Center,INTERNATIONAL BADMINTON CENTER EDISON,3775 Park Ave,3775 PARK AVE,0.8571428571428571
+149,445,,Lucky Shoals Park,4651 Britt Road Lucky Shoals Park,4651 Britt Road,1.0
+160,274,P. E. Society’s Modern PDMBA Sports Complex,P. E. Society's Modern PDMBA Sports Complex,Modern High School Premises,Modern High School Premises,1.0
+160,453,P. E. Society’s Modern PDMBA Sports Complex,P.E. Society's Modern PDMBA Sports Complex,Modern High School Premises,Modern High School Premises,1.0
+162,238,San Gabriel Valley Badminton 2,San Gabriel Valley Badminton Club #2,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+162,339,San Gabriel Valley Badminton 2,San Gabriel Valley Badminton Club 2,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+162,650,San Gabriel Valley Badminton 2,San Gabriel Valley Badminton Club 2: Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+163,964,Olympic Sports Center Xincheng Gymnasium,Olympic Sports Center Gymnasium,NO.1 Jinling North Road,1 Jinling North Road,0.8
+164,1197,Sportoase,Sportoase Philipssite Leuven,Philipssite Leuven 6,Philipssite 6,1.0
+177,284,Sofia Hall - Borisova Garden,Sofia Hall,Borisova Garden,"Dstr. ""Borisova Garden""",0.8
+178,287,"Topsportcentrum Almere,",Topsportcentrum Almere,,,1.0
+207,312,Cricket Club of India (Mumbai),"Cricket Club of India, Mumbai",Brabourne Stadium Dinshaw Vachha Road Churchgate,Brabourne Stadium Dinshaw Vachha Road Churchgate,1.0
+207,998,Cricket Club of India (Mumbai),"Cricket Club of India, Mumbai (CCI)",Brabourne Stadium Dinshaw Vachha Road Churchgate,"Brabourne Stadium, Dinshaw Vachha Road, Churchgate,",0.9166666666666666
+208,407,Falconer Salen,Falkoner salen,Falkoner Alle 9,Falkoner alle 9,0.8
+217,509,Wiener Stadthalle,Wiener Stadthalle B,Vogelweidplatz 14,Vogelweidplatz 14,0.8
+227,424,Palais des sports,Palais des Sports,rue Eugene vignat,Rue Eugene Vignat,1.0
+229,749,Energia Areena,Vantaan Energia Areena,Rajatorpantie 23,Rajatorpantie 23,0.8
+229,1437,Energia Areena,Vantaa Energia Areena,Rajatorpantie 23,Rajatorpantie 23,0.8
+238,253,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Club II: Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+238,339,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Club 2,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+238,650,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Club 2: Pomona,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+238,700,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Club (SGVBC),3410 Pomona Blvd,3410 Pomona Blvd,0.8
+238,897,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Club - Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+240,352,Sport Hall Medvode,Sport Hall medvode,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+240,1116,Sport Hall Medvode,Sport hall Medvode,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+242,561,Estero Community Park,Estero Community Park Recreation Center,Recreation Center 9200 Corkscrew Palms Blvd,9200 Corkscrew Palms Blvd,1.0
+244,538,"Polideportivo Municipal ""Marques de Samaranch""",Polideportivo Marques de Samaranch,Paseo Imperial 18,Paseo Imperial 18,0.875
+247,438,Kaunas Sports HAll,Kaunas Sports Hall,Perkuno al. 5,Perkuno al. 5,1.0
+248,447,ISTORA GELORA BUNG KARNO STADIUM,Istora – Gelora Bung Karno,Senayan,Senayan,0.8333333333333334
+248,528,ISTORA GELORA BUNG KARNO STADIUM,Istora Gelora Bung Karno Stadium,Senayan,Senayan,1.0
+253,339,San Gabriel Valley Badminton Club II: Pomona,San Gabriel Valley Badminton Club 2,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+253,650,San Gabriel Valley Badminton Club II: Pomona,San Gabriel Valley Badminton Club 2: Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8
+253,700,San Gabriel Valley Badminton Club II: Pomona,San Gabriel Valley Badminton Club (SGVBC),3410 Pomona Blvd,3410 Pomona Blvd,0.8
+253,897,San Gabriel Valley Badminton Club II: Pomona,San Gabriel Valley Badminton Club - Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+259,1200,"Orange County Badminton Club,",Orange County Badminton Club (OCBC),1432 N. Main St.,1432 N Main St,0.8888888888888888
+267,663,California Badminton Academy (CBA),CBA Badminton Academy,46049 Warm Springs Blvd,46049 Warm Springs Blvd,0.875
+273,542,ClearOne Badminton Centre - Orlando,ClearOne Orlando Badminton Centre,4141 North John Young Parkway,4141 N. John Young Parkway,0.8
+274,453,P. E. Society's Modern PDMBA Sports Complex,P.E. Society's Modern PDMBA Sports Complex,Modern High School Premises,Modern High School Premises,1.0
+275,555,Coliseo Deportivo,coliseo deportivo,Ciudad de los Deportes zona 4,coliseo deportivo ciudad de los deportes zona 4,1.0
+275,1086,Coliseo Deportivo,COLISEO DEPORTIVO DE BADMINTON,Ciudad de los Deportes zona 4,COLISEO DEPORTIVO CIUDAD DE LOS DEPORTES ZONA 4.,0.8888888888888888
+292,474,Centre Sportif,Centre Sportif des Isles,Avenue des trois lacs 1,Avenue des Trois Lacs 1,0.875
+294,540,Kibbutz Hatzor Sport Hall,Hatzor Sport Hall,Kibbutz Hatzor,Kibbutz Hatzor Ashdod,0.8
+294,581,Kibbutz Hatzor Sport Hall,Kibbutz Hatzor sport hall,Kibbutz Hatzor,Kibbutz Hatzor,1.0
+294,984,Kibbutz Hatzor Sport Hall,Hatzor sport hall,Kibbutz Hatzor,Kibbutz Hatzor-Ashdod,0.8
+295,973,Eastbay Badminton Association,EastBay Badminton Association,4230 Hubbard Street,4230 Hubbard Street,1.0
+301,304,Jeonju indoor Badminton Court,Jeonju Indoor Badminton Court,"1st street, dukjin-gu Jeollabukdo, Korea",1st Street dukjin-gu,0.8
+312,998,"Cricket Club of India, Mumbai","Cricket Club of India, Mumbai (CCI)",Brabourne Stadium Dinshaw Vachha Road Churchgate,"Brabourne Stadium, Dinshaw Vachha Road, Churchgate,",0.9166666666666666
+321,375,Midwest Badminton Club,MIDWEST BADMINTON CLUB Naperville,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,0.8888888888888888
+321,384,Midwest Badminton Club,Midwest Badminton Club - Naperville,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,0.8888888888888888
+321,1012,Midwest Badminton Club,Midwest Badminton Club-Naperville,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,0.8888888888888888
+323,505,TBR – Badminton Hall,TBR Hall,Gnoðavogi 1,Gnoðavogi 1,0.8
+328,413,Shannon Pohl Badiminton Academy,Shannon Pohl Badminton Academy,Adversity Volleyball Center 710 Corporate Woods Pkwy.,Adversity Volleyball Center 710 Corporate Woods Pkwy,0.8333333333333334
+338,497,PALABADMINTON,PalaBadminton,"Via Giovanni Cimabue, 24",Via Giovanni Cimabue 24,1.0
+338,1030,PALABADMINTON,Palabadminton,"Via Giovanni Cimabue, 24",Via Giovanni Cimabue 24,1.0
+339,650,San Gabriel Valley Badminton Club 2,San Gabriel Valley Badminton Club 2: Pomona,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+339,700,San Gabriel Valley Badminton Club 2,San Gabriel Valley Badminton Club (SGVBC),3410 Pomona Blvd,3410 Pomona Blvd,0.8
+339,897,San Gabriel Valley Badminton Club 2,San Gabriel Valley Badminton Club - Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+352,1116,Sport Hall medvode,Sport hall Medvode,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+360,533,Bintang Milpitas,Bintang Badmitnon,746 S. Milpitas Blvd.,746 S Milpitas Blvd,0.8333333333333334
+375,384,MIDWEST BADMINTON CLUB Naperville,Midwest Badminton Club - Naperville,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+375,1012,MIDWEST BADMINTON CLUB Naperville,Midwest Badminton Club-Naperville,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+384,1012,Midwest Badminton Club - Naperville,Midwest Badminton Club-Naperville,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+399,727,Badminton Centrum,Badminton Centrum Pécs,Basamalom utca 33.,Basamalom utca 33.,0.8333333333333334
+402,1248,A.Le Coq Sport Hall,A. Le Coq Sport hall,Ihaste tee 7,Ihaste tee 7,1.0
+413,631,Shannon Pohl Badminton Academy,Shannon Pohl Badminton Academy / Adversity Volleyball Center,Adversity Volleyball Center 710 Corporate Woods Pkwy,710 Corporate Woods Parkway,0.8333333333333334
+419,1419,Sportarena (Sportforum) Berlin,Sportarena ( Sportforum) Berlin,Weißenseer Weg 53,Weißenseer Weg 53,1.0
+425,1363,Energia Arena,Vantaa Energia Arena,Rajatorpantie 23,Rajatorpantie 23,0.8
+440,840,SGVBC 2 POMONA,SGVBC 2 Pomona,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+442,542,ClearOne Badminton Centre,ClearOne Orlando Badminton Centre,4141 N John Young Parkway,4141 N. John Young Parkway,0.8888888888888888
+447,528,Istora – Gelora Bung Karno,Istora Gelora Bung Karno Stadium,Senayan,Senayan,0.8333333333333334
+450,484,Sportove Centrum M-Sport Trencin,Sportove Centrum M-SPORT Trencin,Ostrov 363,Ostrov 363,1.0
+450,731,Sportove Centrum M-Sport Trencin,Sportove centrum M-SPORT,Ostrov 363,Ostrov 363,0.8571428571428571
+450,828,Sportove Centrum M-Sport Trencin,Sportove centrum M-Sport,Ostrov 363,Ostrov 363,0.8571428571428571
+450,1041,Sportove Centrum M-Sport Trencin,Sportove centrum M-Sport Trencin,Ostrov 363,Ostrov 363,1.0
+450,1092,Sportove Centrum M-Sport Trencin,Sportove centrum M-sport Trencin,Ostrov 363,Ostrov 363,1.0
+450,1209,Sportove Centrum M-Sport Trencin,Sportove Centrum M-sport Trencin,Ostrov 363,Ostrov 363,1.0
+462,566,Sportovni Hala Kralovka,Sportovni hala Kralovka,Nad Kralovskou oborou 51,Nad Kralovskou oborou 51,1.0
+473,1221,UCLA - Student Activities Center,UCLA - Student Activities Center (SAC),220 Westwood Plaza,220 Westwood Plaza,0.875
+477,552,Gimnasio Municipal Bernardo O´higgins,Gimnasio Bernardo O'higgins,,,0.8
+481,723,sgvbc 1,SGVBC,9255 Telstar ave,9255 Telstar Ave,0.8
+484,731,Sportove Centrum M-SPORT Trencin,Sportove centrum M-SPORT,Ostrov 363,Ostrov 363,0.8571428571428571
+484,828,Sportove Centrum M-SPORT Trencin,Sportove centrum M-Sport,Ostrov 363,Ostrov 363,0.8571428571428571
+484,1041,Sportove Centrum M-SPORT Trencin,Sportove centrum M-Sport Trencin,Ostrov 363,Ostrov 363,1.0
+484,1092,Sportove Centrum M-SPORT Trencin,Sportove centrum M-sport Trencin,Ostrov 363,Ostrov 363,1.0
+484,1209,Sportove Centrum M-SPORT Trencin,Sportove Centrum M-sport Trencin,Ostrov 363,Ostrov 363,1.0
+497,1030,PalaBadminton,Palabadminton,Via Giovanni Cimabue 24,Via Giovanni Cimabue 24,1.0
+501,539,Egret Badminton Trainig Center,Egret Badminton Center,1251 Basswood Rd,1251 Basswood Rd.,0.8571428571428571
+511,1114,High Performance Centre,Badminton High Performance Centre,Av. Vasco da Gama,Av Vasco da Gama,0.875
+539,1105,Egret Badminton Center,Egret Badminton,1251 Basswood Rd.,1251 Basswood Rd.,0.8333333333333334
+540,581,Hatzor Sport Hall,Kibbutz Hatzor sport hall,Kibbutz Hatzor Ashdod,Kibbutz Hatzor,0.8
+540,984,Hatzor Sport Hall,Hatzor sport hall,Kibbutz Hatzor Ashdod,Kibbutz Hatzor-Ashdod,1.0
+545,1123,Harbour Pointe Badminton Club,Bellevue Badminton Club (Harbour Pointe),"3616 South Road, Building D","3616 South Road, Building D",0.9
+554,671,Federacion Nacional de Badminton de Guatemala,FEDERACION NACIONAL DE BADMINTON,Coliseo Deportivo Ciudad de los Deportes Zona 4,"COLISEO DEPORTIVO, CIUDAD DE LOS DEPORTES ZONA 4",0.9166666666666666
+555,1086,coliseo deportivo,COLISEO DEPORTIVO DE BADMINTON,coliseo deportivo ciudad de los deportes zona 4,COLISEO DEPORTIVO CIUDAD DE LOS DEPORTES ZONA 4.,0.8888888888888888
+556,802,Sport Hall Spartak,Sport Hall ''Spartak'',2 Sredna Gora Str.,2 Sredna Gora Str.,1.0
+556,935,Sport Hall Spartak,Sport Hall “Spartak”,2 Sredna Gora Str.,2 Sredna Gora Str.,1.0
+559,618,Pembangunan Jaya Raya,PEMBANGUNAN JAYA RAYA Badminton Training Center,Badminton Training Center Jl. Murai Raya Bintaro,"Jl. Murai Raya, Bintaro",1.0
+559,1222,Pembangunan Jaya Raya,Pembangunan Jaya Raya Badminton Training Center,Badminton Training Center Jl. Murai Raya Bintaro,Jl. Murai Raya Bintaro,1.0
+569,678,Sport Hall Europe,"Sport Hall ""Europe""",7 Iskarsko Shose Blvd.,7 Iskarsko Shose Blvd.,1.0
+569,794,Sport Hall Europe,"Badminton Sport Hall ""Europe""",7 Iskarsko Shose Blvd.,Blvd. Iskarsko shose 7,0.875
+569,832,Sport Hall Europe,Sport Hall „Europe“,7 Iskarsko Shose Blvd.,No:7 Iskarsko Shose Blvd,0.875
+578,1110,City Sport Hall Orlova,City Sport Hall,Masarykova 1313,Masarykova 1313,0.8333333333333334
+580,731,Sportove Centrum M-SPORT,Sportove centrum M-SPORT,Ostrov 363 Zamarovce,Ostrov 363,0.8571428571428571
+580,828,Sportove Centrum M-SPORT,Sportove centrum M-Sport,Ostrov 363 Zamarovce,Ostrov 363,0.8571428571428571
+580,874,Sportove Centrum M-SPORT,Sportove Centrum M-Sport,Ostrov 363 Zamarovce,"Ostrov 363, Zamarovce",1.0
+581,984,Kibbutz Hatzor sport hall,Hatzor sport hall,Kibbutz Hatzor,Kibbutz Hatzor-Ashdod,0.8
+593,1263,SPH GYM 2101,SPH Gym 2101,4200 Valley Drive,4200 Valley Drive,1.0
+594,1105,EGRET,Egret Badminton,1251 Basswood Rd,1251 Basswood Rd.,0.8
+605,979,Innogy Sporthalle,innogy-Sporthalle,An den Sportstätten 6,An den Sportstätten 6,1.0
+618,1222,PEMBANGUNAN JAYA RAYA Badminton Training Center,Pembangunan Jaya Raya Badminton Training Center,"Jl. Murai Raya, Bintaro",Jl. Murai Raya Bintaro,1.0
+624,1097,Gospino Polje Sports Hall,Gospino Polje hall,Liechtensteinov put 10,Liechtensteinov put 10,0.8571428571428571
+624,1433,Gospino Polje Sports Hall,Gospino Polje Hall,Liechtensteinov put 10,Liechtensteinov put 10,0.8571428571428571
+631,1299,Shannon Pohl Badminton Academy / Adversity Volleyball Center,Shannon Pohl Badminton Academy/Adversity Volleyball Center,710 Corporate Woods Parkway,710-720 Corporate Woods Parkway,0.9166666666666666
+650,700,San Gabriel Valley Badminton Club 2: Pomona,San Gabriel Valley Badminton Club (SGVBC),3410 Pomona Blvd,3410 Pomona Blvd,0.8
+650,897,San Gabriel Valley Badminton Club 2: Pomona,San Gabriel Valley Badminton Club - Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+667,798,"""NEPTŪNO"" Sports Hall","""NEPTŪNO"" sports hall",Taikos pr. 61A,"Taikos pr. 61A,",1.0
+667,953,"""NEPTŪNO"" Sports Hall","""NEPTŪNO"" Sports hall",Taikos pr. 61A,Taikos pr. 61A,1.0
+668,685,Smash! Badminton San Diego,Smash Badminton San Diego,9586 Distribution Ave Suite E,"9586 Distribution Ave., Suite E",1.0
+671,1086,FEDERACION NACIONAL DE BADMINTON,COLISEO DEPORTIVO DE BADMINTON,"COLISEO DEPORTIVO, CIUDAD DE LOS DEPORTES ZONA 4",COLISEO DEPORTIVO CIUDAD DE LOS DEPORTES ZONA 4.,0.8181818181818182
+678,794,"Sport Hall ""Europe""","Badminton Sport Hall ""Europe""",7 Iskarsko Shose Blvd.,Blvd. Iskarsko shose 7,0.875
+678,832,"Sport Hall ""Europe""",Sport Hall „Europe“,7 Iskarsko Shose Blvd.,No:7 Iskarsko Shose Blvd,0.875
+691,695,Cairo National Stadium,Aly Hasaballah,"Egypt , Cairo , Nasr City , Salah Salem Street , Cairo Stadium , Federations Building , First floor","Egypt , Cairo , Nasr City , Salah Salem Street , Cairo Stadium , Federations Building , First floor",0.8
+693,847,Purdue Recreation & Wellness,Purdue Recreation and Wellness,355 N Martin Jischke Dr,355 N Martin Jischke Dr,0.8888888888888888
+696,801,Gentofte Badminton Hal tbc,Gentofte Badminton hal,Ved Stadion 4,Ved Stadion 4,0.8571428571428571
+697,759,Garden Grove Sports & Recreation Center,Garden Grove Recreation Center,13641 Deodara Dr,13641 Deodara Dr,0.875
+700,897,San Gabriel Valley Badminton Club (SGVBC),San Gabriel Valley Badminton Club - Pomona,3410 Pomona Blvd,3410 Pomona Blvd,0.8888888888888888
+730,740,"Campus Recreation and Wellness Centre, UOIT",Campus Recreation and Wellness Centre (UOIT),2000 Simcoe Street North,2000 Simcoe Street North,1.0
+731,828,Sportove centrum M-SPORT,Sportove centrum M-Sport,Ostrov 363,Ostrov 363,1.0
+731,874,Sportove centrum M-SPORT,Sportove Centrum M-Sport,Ostrov 363,"Ostrov 363, Zamarovce",0.8571428571428571
+731,1041,Sportove centrum M-SPORT,Sportove centrum M-Sport Trencin,Ostrov 363,Ostrov 363,0.8571428571428571
+731,1092,Sportove centrum M-SPORT,Sportove centrum M-sport Trencin,Ostrov 363,Ostrov 363,0.8571428571428571
+731,1209,Sportove centrum M-SPORT,Sportove Centrum M-sport Trencin,Ostrov 363,Ostrov 363,0.8571428571428571
+735,1050,Arena Birmingham,Utilita Arena Birmingham,King Edwards Road Birmingham,King Edwards Road,0.8333333333333334
+744,898,Sporthal Den Willecom,Den Willecom,Terelststraat 2,Terelststraat 2,0.8
+755,1276,VELO Hall,VELO-hall,Noordweg 26,Noordweg 26,1.0
+764,906,"Sport hall ""Vasil Levski""",Sport hall 'Vasil Levski',"General Gurko str. 5,",General Gurko str. 5,1.0
+764,946,"Sport hall ""Vasil Levski""","Sport Hall ""Vasil Levski""","General Gurko str. 5,",General Gurko str. 5,1.0
+764,1315,"Sport hall ""Vasil Levski""",Sport Hall “Vasil Levski”,"General Gurko str. 5,",General Gurko str.5,1.0
+769,922,QUAYCENTRE,Quaycentre,Olympic Boulevard Sydney Olympic Park,Sydney Olympic Park,0.8
+770,910,Polideportivo 2 - CAR Videna,POLIDEPORTIVO 2 - CAR VIDENA,Av. Del Aire Cdra. 8 San Luis,Av. Del Aire Cdra. 9 San Luis,0.8333333333333334
+794,948,"Badminton Sport Hall ""Europe""","Badminton Hall ""Europe""",Blvd. Iskarsko shose 7,7 Iskarsko Shose blvd.,0.875
+797,952,CREPS BORDEAUX - Gymnase HAND/BAD,Creps Bordeaux - Gymnase Hand/Bad,653 cours de la liberation,653 cours de la liberation,1.0
+797,1078,CREPS BORDEAUX - Gymnase HAND/BAD,CREPS Bordeaux - Gymnase Hand/Bad,653 cours de la liberation,653 cours de la liberation,1.0
+798,953,"""NEPTŪNO"" sports hall","""NEPTŪNO"" Sports hall","Taikos pr. 61A,",Taikos pr. 61A,1.0
+800,1162,Istora Senayan Stadium,"ISTORA Stadium, Senayan",Istora Senayan Stadium,,1.0
+802,935,Sport Hall ''Spartak'',Sport Hall “Spartak”,2 Sredna Gora Str.,2 Sredna Gora Str.,1.0
+804,871,all d'Hebron Olympic Sports Centre,Vall d’Hebron Olympic Sports Centre,Passeig de la Vall d'Hebron 166-176,"Passeig de la Vall d'Hebron, 166-176",0.9166666666666666
+804,1029,all d'Hebron Olympic Sports Centre,Vall d'Hebron Olympic Sports Centre,Passeig de la Vall d'Hebron 166-176,Passeig de la Vall d'Hebron 166-176,0.9166666666666666
+811,1024,Club28 Badminton Philadelphia,Club28 Badminton,3559 Edgemont St.,3559 Edgemont St.,0.8333333333333334
+825,961,NAS Sports Complex,NAS Sports complex,"NAS Sports Complex NAS Sports Complex, Nad Al Sheba, Dubai – UAE","NAS Sports complex NAS Sports Complex, Nad Al Sheba, Dubai – UAE.",1.0
+828,874,Sportove centrum M-Sport,Sportove Centrum M-Sport,Ostrov 363,"Ostrov 363, Zamarovce",0.8571428571428571
+828,1041,Sportove centrum M-Sport,Sportove centrum M-Sport Trencin,Ostrov 363,Ostrov 363,0.8571428571428571
+828,1092,Sportove centrum M-Sport,Sportove centrum M-sport Trencin,Ostrov 363,Ostrov 363,0.8571428571428571
+828,1209,Sportove centrum M-Sport,Sportove Centrum M-sport Trencin,Ostrov 363,Ostrov 363,0.8571428571428571
+829,876,Triangle Badminton Club (TBC),Triangle Badminton Club,1012 Morrisville Parkway,1012 Morrisville Parkway,0.8571428571428571
+833,1040,Delfi sports centre,"""Delfi"" Sports Centre",Ozo str. 14c,Ozo str. 14C,1.0
+865,1019,Indoor Stadium Huamark,Indoor stadium Huamark,"Ramkhamhaeng Rd, Khwaeng Hua Mark Khet Bang Kapi Krung Thep Maha Nakhon",Ramkhamhaeng Rd. Khweang Hua Mark Khet Bang Kapi Krung Thep Maha,0.8125
+866,1438,SMASH Badminton,Smash,9586 Distribution Ave Suite E,9586 Distribution Ave Suite E,0.8571428571428571
+871,1029,Vall d’Hebron Olympic Sports Centre,Vall d'Hebron Olympic Sports Centre,"Passeig de la Vall d'Hebron, 166-176",Passeig de la Vall d'Hebron 166-176,1.0
+875,1032,Badmintonhall DEGIRO,Badmintonhall DEGIRO hall,Badmintonplein 1,Badmintonplein 1,0.8
+891,1091,Arena Badminton & Sports Club,ARENA BADMINTON CLUB,"2780 S. Reservoir St,",2780 S RESERVOIR ST,0.875
+906,946,Sport hall 'Vasil Levski',"Sport Hall ""Vasil Levski""",General Gurko str. 5,General Gurko str. 5,1.0
+906,1315,Sport hall 'Vasil Levski',Sport Hall “Vasil Levski”,General Gurko str. 5,General Gurko str.5,1.0
+907,912,National Athletic Center,National Athletic Center Mikra,Mikra Kalamaria,,0.8
+919,1039,Zemgales Olimpiskais Centrs,Zemgales Olimpiskais centrs,Kronvalda 24,Kronvalda 24,1.0
+946,1315,"Sport Hall ""Vasil Levski""",Sport Hall “Vasil Levski”,General Gurko str. 5,General Gurko str.5,1.0
+952,1078,Creps Bordeaux - Gymnase Hand/Bad,CREPS Bordeaux - Gymnase Hand/Bad,653 cours de la liberation,653 cours de la liberation,1.0
+970,1006,Atlanta Recreation club,Atlanta Recreation Club,"2711 Pine Grove Rd, Cumming",2711 Pine Grove Rd,0.875
+970,1047,Atlanta Recreation club,ATLANTA RECREATION CLUB,"2711 Pine Grove Rd, Cumming",2711 Pine Grove Rd,0.875
+991,1458,Bellevue Badminton Club -- Renton,Bellevue Badminton Club - Renton,846 Lind Ave SW,846 Lind Ave SW SW,1.0
+996,1014,Smashville MainLine,Smashville Mainline,250 King manor Dr.,250 King Manor Dr,1.0
+999,1235,"BNSC Indoor Hall,Lobatse Sports Complex",Lobatse sports complex indoor hall,Lobatse Sports Complex P.O.Box 1404 Gaborone,BNSC c/o P.O.Box 1404 Gaborone,0.9166666666666666
+1006,1047,Atlanta Recreation Club,ATLANTA RECREATION CLUB,2711 Pine Grove Rd,2711 Pine Grove Rd,1.0
+1008,1143,Santa Fe Springs Badminton Club,Santa Fe Springs Badminton CLub,11323 Shoemaker Ave,"11323 SHoemaker Ave.,",1.0
+1016,1105,EGRET Badminton Club,Egret Badminton,1251 Basswood Rd,1251 Basswood Rd.,0.8333333333333334
+1023,1056,Polideportivo Municipal de Arroyo de la Miel,Polideportivo Municipal Arroyo de la Miel,Calle Orujo,Calle Orujo 2,0.8888888888888888
+1041,1092,Sportove centrum M-Sport Trencin,Sportove centrum M-sport Trencin,Ostrov 363,Ostrov 363,1.0
+1041,1209,Sportove centrum M-Sport Trencin,Sportove Centrum M-sport Trencin,Ostrov 363,Ostrov 363,1.0
+1056,1255,Polideportivo Municipal Arroyo de la Miel,Polideportivo Arroyo de la Miel,Calle Orujo 2,Calle Orujo 2,0.8888888888888888
+1062,1087,Midwest Badminton Woodridge,Midwest Badminton Club - Woodridge,8202 Lemont Road,8202 Lemont Road,0.8571428571428571
+1065,1136,Triangle Badminton and Table Tennis,Triangle Badminton & Table Tennis,"2900 Perimeter Park Dr, Suite# 200","2900 Perimeter Park Dr, #200",0.8181818181818182
+1067,1138,New Jersey Badminton Club,New Jersey Badminton CLub,2 Changebridge Rd,2 Changebridge Rd,1.0
+1077,1191,Burnsville High School (enter via Door 1),Burnsville High School Gym (enter via Door 1),600 State Hwy 13,600 State Hwy 13,0.9166666666666666
+1085,1147,Täby Racketcenter,Täby RacketCenter,Flyghamnsvägen 16,Flyghamnsvägen 16,1.0
+1092,1209,Sportove centrum M-sport Trencin,Sportove Centrum M-sport Trencin,Ostrov 363,Ostrov 363,1.0
+1094,1342,Club 28 Badminton,Club 28 badminton Philadelphia,3569 Edgemont st.,3569 Edgemont St.,0.8571428571428571
+1097,1433,Gospino Polje hall,Gospino Polje Hall,Liechtensteinov put 10,Liechtensteinov put 10,1.0
+1102,1371,Langeskov Hallerne,Langeskov hallerne,Børmosevej 3,Børmosevej 3,1.0
+1106,1455,Elite Badminton Center,ELITE BADMINTON CENTER,33540 Central Ave,33540 CENTER AVE,0.8333333333333334
+1120,1211,LONG ISLAND BADMINTON CENTER,Long Island Badminton Center,575 MERRICK AVE.,575 Merrick Ave,1.0
+1132,1388,SPARC Arena NOVI,SPARC Arena,42775 9 Mile Rd,42775 9 mile rd,0.8571428571428571
+1148,1388,SPARC,SPARC Arena,42775 9 Mile Rd,42775 9 mile rd,0.8333333333333334
+1167,1305,Sport Hall Svilengrad,"Sport Hall ""Svilengrad""",Nencho Hristov Str.,Nencho Hristov str.,1.0
+1182,1330,Gymnase Hand bad CREPS,Gymnase Hand-bad CREPS,653 avenue de la libération,653 avenue de la libération,1.0
+1187,1194,Club28 badminton,Club28 badminton Philadelphia,3569 Edgemont st,3569 Edgemont st.,0.8333333333333334
+1204,1354,SD Sutinska Vrela Zagreb,SD Sutinska vrela,Podsusedski trg 14b,Podsusedski trg 14B,0.8571428571428571
+1225,1389,Chicago Badminton Academy,chicago badminton academy,570A Telser Rd,570A Telser Rd,1.0
+1230,1385,OYDC ZAMBIA - SPORTS DEVELOPMENT CENTRE,OYDC Zambia - Sports Development Centre,GREAT NORTH ROAD,Great North Road,1.0
+1231,1329,NETS & TURF,Nets and turf,2711 Pine Grove Rd,2711 Pine grove rd,0.8571428571428571
+1231,1387,NETS & TURF,Nets & Turf Arena,2711 Pine Grove Rd,2711 Pine grove rd,0.8571428571428571
+1234,1351,The India Club Bahrain,India Club Bahrain,"The India Club Bahrain Road No. 825, Zubara Avenue,","India Club Bahrain Road No. 825, Zubara Avenue,",0.8888888888888888
+1242,1294,Nets and Turf,Nets & Turf,2711 Pine grove road,2711 Pine grove road,0.8571428571428571
+1249,1400,A. Le Coq Sports Hall,A le Coq Sports hall,Ihaste tee 7,Ihaste tee 7,1.0
+1274,1368,MBC @ NAPERVILLE,MBC Naperville,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,1.0
+1274,1404,MBC @ NAPERVILLE,MBC,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,0.8571428571428571
+1308,1456,Salle metropolitaine de la Trocardière,Salle Metropolitaine de la Trocardière,91 Rue de la Trocardière,91 Rue de la Trocardière,1.0
+1309,1404,MBC NP,MBC,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,0.8571428571428571
+1324,1429,The Farm (TBC),The Farm,2660 Vickers Drive,2660 Vickers Drive,0.8333333333333334
+1325,1463,Champ Fleuri Gymnasium,Gymnasium Champ Fleuri,8 rue Christol de Sigoyer,8 rue Christol de Sigoyer,1.0
+1342,1390,Club 28 badminton Philadelphia,Club 28 Philadelphia,3569 Edgemont St.,3569 Edgemont st,0.8571428571428571
+1368,1404,MBC Naperville,MBC,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,0.8571428571428571
+1384,1413,Ramsey Student Center; Gym East,Ramsey Student Center - Gym East,330 River Rd.,330 River Rd,1.0

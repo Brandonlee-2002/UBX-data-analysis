@@ -1,0 +1,361 @@
+Venue1_Id,Venue2_Id,Venue_Name1,Venue_Name2,Similarity
+8,134,Orange County Badminton Club,Orange County Badminton CLub,1.0
+8,259,Orange County Badminton Club,"Orange County Badminton Club,",0.9615384615384616
+8,1200,Orange County Badminton Club,Orange County Badminton Club (OCBC),0.8064516129032258
+14,219,RWE-Sporthalle,RWE - Sporthalle,1.0
+19,534,Sport Hall,Sporthall,1.0
+26,83,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club II,0.9354838709677419
+26,87,San Gabriel Valley Badminton Club,San Gabriel Valley Bamdinton Club II,0.8709677419354839
+26,123,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club I,0.9666666666666667
+26,128,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club 1,0.9666666666666667
+26,162,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton 2,0.8620689655172413
+26,238,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club #2,0.9354838709677419
+26,339,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club 2,0.9666666666666667
+26,506,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Court,0.9
+26,700,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club (SGVBC),0.8055555555555556
+26,897,San Gabriel Valley Badminton Club,San Gabriel Valley Badminton Club - Pomona,0.8055555555555556
+26,1292,San Gabriel Valley Badminton Club,San Gabrile Valley Badminton Club,0.9310344827586207
+30,251,Singapore Indoor Stadium,Singapore Indoor Stadium (SIS),0.8148148148148148
+32,541,John Bowne High School,JOHN BOWNE HIGH SCHOOL GYM,0.8636363636363636
+33,728,Bay Badminton Club,K-W Badminton Club,0.8125
+47,81,CP Badminton Club(CPBC),CP Badminton Club (CPBC),1.0
+47,290,CP Badminton Club(CPBC),NJ Badminton Club (NJBC),0.8095238095238095
+57,104,Bellevue badminton club,Bellevue Badminton Club,1.0
+66,267,California Badminton Academy,California Badminton Academy (CBA),0.8387096774193549
+68,160,"P. E. Society’s Modern PDMBA Sports Complex,",P. E. Society’s Modern PDMBA Sports Complex,0.9736842105263158
+68,274,"P. E. Society’s Modern PDMBA Sports Complex,",P. E. Society's Modern PDMBA Sports Complex,0.9473684210526315
+68,453,"P. E. Society’s Modern PDMBA Sports Complex,",P.E. Society's Modern PDMBA Sports Complex,0.9473684210526315
+69,86,JOHN BOWNE HS gym,JOHN BOWNE HS GYM,1.0
+77,215,Los Angeles Badminton Clib,Los Angeles Badminton Club,0.9565217391304348
+79,641,Bintang Badminton SSF,Bintang Badminton,0.8421052631578947
+81,290,CP Badminton Club (CPBC),NJ Badminton Club (NJBC),0.8095238095238095
+82,763,Boston Badminton Club,Boston Badminton club,1.0
+83,87,San Gabriel Valley Badminton Club II,San Gabriel Valley Bamdinton Club II,0.9354838709677419
+83,123,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club I,0.967741935483871
+83,128,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club 1,0.9354838709677419
+83,162,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton 2,0.8064516129032258
+83,238,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club #2,0.9354838709677419
+83,253,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club II: Pomona,0.8157894736842105
+83,339,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club 2,0.9354838709677419
+83,506,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Court,0.8709677419354839
+83,700,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club (SGVBC),0.8055555555555556
+83,897,San Gabriel Valley Badminton Club II,San Gabriel Valley Badminton Club - Pomona,0.8055555555555556
+83,1292,San Gabriel Valley Badminton Club II,San Gabrile Valley Badminton Club,0.8709677419354839
+84,221,Los Angeles Badminton Club (LABC),LOS ANGELES BADMINTON CLUB (LABC),1.0
+87,123,San Gabriel Valley Bamdinton Club II,San Gabriel Valley Badminton Club I,0.9032258064516129
+87,128,San Gabriel Valley Bamdinton Club II,San Gabriel Valley Badminton Club 1,0.8709677419354839
+87,238,San Gabriel Valley Bamdinton Club II,San Gabriel Valley Badminton Club #2,0.8709677419354839
+87,339,San Gabriel Valley Bamdinton Club II,San Gabriel Valley Badminton Club 2,0.8709677419354839
+87,506,San Gabriel Valley Bamdinton Club II,San Gabriel Valley Badminton Court,0.8064516129032258
+87,1292,San Gabriel Valley Bamdinton Club II,San Gabrile Valley Badminton Club,0.8064516129032258
+88,1001,Bay Badminton Center,DFW Badminton Center,0.8333333333333334
+98,166,CP Badminton Club,NJ Badminton Club,0.8666666666666667
+102,377,SGVBC 1,SGVBC 2,0.8333333333333334
+102,411,SGVBC 1,SGVBC1,1.0
+102,481,SGVBC 1,sgvbc 1,1.0
+102,723,SGVBC 1,SGVBC,0.8333333333333334
+105,511,High Performance Center,High Performance Centre,0.9047619047619048
+113,208,Falkonersalen,Falconer Salen,0.9230769230769231
+113,407,Falkonersalen,Falkoner salen,1.0
+120,741,Kingston Collegiate & V. I.,Kingston Collegiate & VI,0.8695652173913043
+123,128,San Gabriel Valley Badminton Club I,San Gabriel Valley Badminton Club 1,0.9666666666666667
+123,162,San Gabriel Valley Badminton Club I,San Gabriel Valley Badminton 2,0.8333333333333334
+123,238,San Gabriel Valley Badminton Club I,San Gabriel Valley Badminton Club #2,0.9354838709677419
+123,339,San Gabriel Valley Badminton Club I,San Gabriel Valley Badminton Club 2,0.9666666666666667
+123,506,San Gabriel Valley Badminton Club I,San Gabriel Valley Badminton Court,0.9
+123,700,San Gabriel Valley Badminton Club I,San Gabriel Valley Badminton Club (SGVBC),0.8055555555555556
+123,897,San Gabriel Valley Badminton Club I,San Gabriel Valley Badminton Club - Pomona,0.8055555555555556
+123,1292,San Gabriel Valley Badminton Club I,San Gabrile Valley Badminton Club,0.9
+128,162,San Gabriel Valley Badminton Club 1,San Gabriel Valley Badminton 2,0.8333333333333334
+128,238,San Gabriel Valley Badminton Club 1,San Gabriel Valley Badminton Club #2,0.9354838709677419
+128,339,San Gabriel Valley Badminton Club 1,San Gabriel Valley Badminton Club 2,0.9666666666666667
+128,506,San Gabriel Valley Badminton Club 1,San Gabriel Valley Badminton Court,0.9
+128,700,San Gabriel Valley Badminton Club 1,San Gabriel Valley Badminton Club (SGVBC),0.8055555555555556
+128,897,San Gabriel Valley Badminton Club 1,San Gabriel Valley Badminton Club - Pomona,0.8055555555555556
+128,1292,San Gabriel Valley Badminton Club 1,San Gabrile Valley Badminton Club,0.9
+134,259,Orange County Badminton CLub,"Orange County Badminton Club,",0.9615384615384616
+134,1200,Orange County Badminton CLub,Orange County Badminton Club (OCBC),0.8064516129032258
+136,230,University of Central Oklahoma- Wellness Center,University of Central Oklahoma - Wellness Center,1.0
+137,340,Siri Fort Indoor Stadium,"Siri Fort Indoor Stadium,",0.9545454545454546
+144,200,Badminton Center Court,Badminton Center Court Inc.,0.8333333333333334
+144,236,Badminton Center Court,Badminton Center Court (BCC),0.8
+144,920,Badminton Center Court,BADMINTON CENTER COURT,1.0
+145,218,LUGOGO INDOOR STADIUM,Lugogo Indoor Stadium,1.0
+148,959,International Badminton Center,International Badminton Club,0.8214285714285714
+148,1286,International Badminton Center,INTERNATIONAL BADMINTON CENTER EDISON,0.8235294117647058
+150,263,Richmond Olympic Oval,"Richmond Olympic Oval,",0.95
+160,274,P. E. Society’s Modern PDMBA Sports Complex,P. E. Society's Modern PDMBA Sports Complex,0.972972972972973
+160,453,P. E. Society’s Modern PDMBA Sports Complex,P.E. Society's Modern PDMBA Sports Complex,0.972972972972973
+161,271,Sportova hala PU Presov,Športová hala PU Prešov,0.85
+162,238,San Gabriel Valley Badminton 2,San Gabriel Valley Badminton Club #2,0.8064516129032258
+162,339,San Gabriel Valley Badminton 2,San Gabriel Valley Badminton Club 2,0.8333333333333334
+162,506,San Gabriel Valley Badminton 2,San Gabriel Valley Badminton Court,0.8333333333333334
+172,478,Club Athlético Paulistano,Club Athletico Paulistano,0.9565217391304348
+173,704,City Sports Hall Vodova,City Sports Hall Orlova,0.85
+173,994,City Sports Hall Vodova,City Sports Hall Orlová,0.8
+174,1022,Richmond Pro Badminton Centre,RichmondPro Badminton Centre,1.0
+178,287,"Topsportcentrum Almere,",Topsportcentrum Almere,0.9545454545454546
+180,470,Gentofte Badminton Klub,Gentofte Badminton Hall,0.8095238095238095
+180,801,Gentofte Badminton Klub,Gentofte Badminton hal,0.8095238095238095
+180,956,Gentofte Badminton Klub,Gentofte Badminton Club,0.9523809523809523
+180,1079,Gentofte Badminton Klub,Gentofte Badmintonklub,1.0
+186,389,STADE PIERRE DE COUBERTIN,Stade Pierre de Coubertin,1.0
+188,214,Arcadia Badminton Club,Arcadia Badminton Court,0.8571428571428571
+188,216,Arcadia Badminton Club,Arcadia Badminton Clun,0.95
+188,657,Arcadia Badminton Club,Atlanta Badminton Club,0.8
+190,298,Saarlandhalle,SAARLANDHALLE,1.0
+192,843,Budaörs Sportshall,Budaors Sportshall,0.9411764705882353
+193,323,TBR - Badminton Hall,TBR – Badminton Hall,0.9411764705882353
+195,578,City Sporthall Orlová,City Sport Hall Orlova,0.9473684210526315
+195,851,City Sporthall Orlová,City Sporthall Orlova,0.9473684210526315
+197,306,Emirates Arena,"Emirates Arena,",0.9285714285714286
+199,1239,Sport Wales National Centre,SPORT WALES NATIONAL CENTRE,1.0
+200,236,Badminton Center Court Inc.,Badminton Center Court (BCC),0.84
+200,920,Badminton Center Court Inc.,BADMINTON CENTER COURT,0.8333333333333334
+205,293,MTN Arena,MTN ARENA,1.0
+207,312,Cricket Club of India (Mumbai),"Cricket Club of India, Mumbai",0.9230769230769231
+207,998,Cricket Club of India (Mumbai),"Cricket Club of India, Mumbai (CCI)",0.8
+208,407,Falconer Salen,Falkoner salen,0.9230769230769231
+211,320,School of Public Health UMD,School of Public Health,0.8695652173913043
+214,216,Arcadia Badminton Court,Arcadia Badminton Clun,0.8571428571428571
+217,509,Wiener Stadthalle,Wiener Stadthalle B,0.9411764705882353
+225,514,Sport hal 'Arena Ursynow',Sport Hall Arena Ursynow,0.9090909090909091
+227,424,Palais des sports,Palais des Sports,1.0
+227,993,Palais des sports,Palais des Soprts,0.8666666666666667
+233,742,Dom Sportova,DOM SPORTOVA,1.0
+233,1208,Dom Sportova,Dom sportova,1.0
+235,1276,VELO-hal,VELO-hall,0.8888888888888888
+236,920,Badminton Center Court (BCC),BADMINTON CENTER COURT,0.8
+238,339,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Club 2,0.9354838709677419
+238,506,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Court,0.8709677419354839
+238,700,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Club (SGVBC),0.8055555555555556
+238,897,San Gabriel Valley Badminton Club #2,San Gabriel Valley Badminton Club - Pomona,0.8055555555555556
+238,1292,San Gabriel Valley Badminton Club #2,San Gabrile Valley Badminton Club,0.8709677419354839
+240,352,Sport Hall Medvode,Sport Hall medvode,1.0
+240,526,Sport Hall Medvode,Sporthall Medvode,1.0
+240,1116,Sport Hall Medvode,Sport hall Medvode,1.0
+244,926,"Polideportivo Municipal ""Marques de Samaranch""",Polideportivo Municipal 'Marqués de Samarach',0.8571428571428571
+247,438,Kaunas Sports HAll,Kaunas Sports Hall,1.0
+248,528,ISTORA GELORA BUNG KARNO STADIUM,Istora Gelora Bung Karno Stadium,1.0
+258,944,Polideportivo,Polideportivo 3,0.9285714285714286
+258,1320,Polideportivo,Polideportivo 1,0.9285714285714286
+259,1200,"Orange County Badminton Club,",Orange County Badminton Club (OCBC),0.8064516129032258
+264,537,Cleveland Convention Center,Cleveland Convention Center Hall A,0.8333333333333334
+270,791,"SC"" Meteor""",SC “ Meteor”,0.8
+274,453,P. E. Society's Modern PDMBA Sports Complex,P.E. Society's Modern PDMBA Sports Complex,1.0
+275,555,Coliseo Deportivo,coliseo deportivo,1.0
+277,634,Kaunas Sporthalle,Kaunas sport hall,0.9375
+279,358,Tokyo Metropolitan Gymansium,Tokyo Metropolitan Gymnasium,0.9230769230769231
+282,682,GOR Amongraga,GOR AMONGROGO,0.8333333333333334
+282,1462,GOR Amongraga,GOR AMONG RAGA,1.0
+291,980,Odense Sports Park,Odense Sportspark,1.0
+294,581,Kibbutz Hatzor Sport Hall,Kibbutz Hatzor sport hall,1.0
+295,973,Eastbay Badminton Association,EastBay Badminton Association,1.0
+301,304,Jeonju indoor Badminton Court,Jeonju Indoor Badminton Court,1.0
+310,404,PALAFIJLKAM,Palafijlkam,1.0
+312,998,"Cricket Club of India, Mumbai","Cricket Club of India, Mumbai (CCI)",0.8333333333333334
+316,1131,Synergy Badminton Club,Synergy Badminton,0.8
+327,1254,Iran Badminton Federation Sport Hall,Iran Badminton Federation Sports Hall,0.8787878787878788
+332,510,Duinwijckhal,Duinwijckhall,0.9230769230769231
+338,497,PALABADMINTON,PalaBadminton,1.0
+338,1030,PALABADMINTON,Palabadminton,1.0
+339,506,San Gabriel Valley Badminton Club 2,San Gabriel Valley Badminton Court,0.9
+339,650,San Gabriel Valley Badminton Club 2,San Gabriel Valley Badminton Club 2: Pomona,0.8108108108108109
+339,700,San Gabriel Valley Badminton Club 2,San Gabriel Valley Badminton Club (SGVBC),0.8055555555555556
+339,897,San Gabriel Valley Badminton Club 2,San Gabriel Valley Badminton Club - Pomona,0.8055555555555556
+339,1292,San Gabriel Valley Badminton Club 2,San Gabrile Valley Badminton Club,0.9
+349,974,GOR Sudirman,Gor Sudirman,1.0
+352,526,Sport Hall medvode,Sporthall Medvode,1.0
+352,1116,Sport Hall medvode,Sport hall Medvode,1.0
+362,483,Sheikh Khalifa Sports City,Shaikh Khalifa Sports City,0.9565217391304348
+367,1247,Boston Badminton,Austin Badminton,0.8
+376,451,Northside Aztlan Community Center,Northsize Aztlan Community Center,0.9666666666666667
+377,411,SGVBC 2,SGVBC1,0.8333333333333334
+377,481,SGVBC 2,sgvbc 1,0.8333333333333334
+377,723,SGVBC 2,SGVBC,0.8333333333333334
+382,488,SG1,SG 1,1.0
+384,1012,Midwest Badminton Club - Naperville,Midwest Badminton Club-Naperville,1.0
+398,417,SG2,SG 2,1.0
+399,727,Badminton Centrum,Badminton Centrum Pécs,0.8
+402,1248,A.Le Coq Sport Hall,A. Le Coq Sport hall,1.0
+411,481,SGVBC1,sgvbc 1,1.0
+411,723,SGVBC1,SGVBC,0.8333333333333334
+419,512,Sportarena (Sportforum) Berlin,Sportarena (Sportforum) Beriln,0.9285714285714286
+419,1419,Sportarena (Sportforum) Berlin,Sportarena ( Sportforum) Berlin,1.0
+420,712,Northern Virginia Badminton Club,NORTHERN VIRGINIA BADMINTON CLUB,1.0
+424,993,Palais des Sports,Palais des Soprts,0.8666666666666667
+427,1106,Plano Badminton Center,Elite Badminton Center,0.8
+427,1455,Plano Badminton Center,ELITE BADMINTON CENTER,0.8
+437,527,"Maugus Club,",Maugus Club,0.9090909090909091
+440,840,SGVBC 2 POMONA,SGVBC 2 Pomona,1.0
+443,544,Sporthall Arena,Sport Hall Arena,1.0
+449,513,Constantin Jude Sport Hall,Constantin Jude Sports Hall,0.8333333333333334
+450,484,Sportove Centrum M-Sport Trencin,Sportove Centrum M-SPORT Trencin,1.0
+450,659,Sportove Centrum M-Sport Trencin,Športové centrum M-SPORT Trenčín,0.8620689655172413
+450,675,Sportove Centrum M-Sport Trencin,Športové centrum M-Šport Trenčín,0.8275862068965517
+450,1041,Sportove Centrum M-Sport Trencin,Sportove centrum M-Sport Trencin,1.0
+450,1092,Sportove Centrum M-Sport Trencin,Sportove centrum M-sport Trencin,1.0
+450,1209,Sportove Centrum M-Sport Trencin,Sportove Centrum M-sport Trencin,1.0
+458,565,Hall Omnisport La Årealle,Hall Omnisport La Prealle,0.9545454545454546
+458,822,Hall Omnisport La Årealle,Hall Omnisport La Préalle,0.9090909090909091
+462,566,Sportovni Hala Kralovka,Sportovni hala Kralovka,1.0
+470,696,Gentofte Badminton Hall,Gentofte Badminton Hal tbc,0.8695652173913043
+470,801,Gentofte Badminton Hall,Gentofte Badminton hal,0.9523809523809523
+470,956,Gentofte Badminton Hall,Gentofte Badminton Club,0.8095238095238095
+470,1079,Gentofte Badminton Hall,Gentofte Badmintonklub,0.8095238095238095
+473,1221,UCLA - Student Activities Center,UCLA - Student Activities Center (SAC),0.8484848484848485
+481,723,sgvbc 1,SGVBC,0.8333333333333334
+482,694,Saarlandhalle Saarbrucken,Saarlandhalle Saarbrücken,0.9583333333333334
+484,659,Sportove Centrum M-SPORT Trencin,Športové centrum M-SPORT Trenčín,0.8620689655172413
+484,675,Sportove Centrum M-SPORT Trencin,Športové centrum M-Šport Trenčín,0.8275862068965517
+484,1041,Sportove Centrum M-SPORT Trencin,Sportove centrum M-Sport Trencin,1.0
+484,1092,Sportove Centrum M-SPORT Trencin,Sportove centrum M-sport Trencin,1.0
+484,1209,Sportove Centrum M-SPORT Trencin,Sportove Centrum M-sport Trencin,1.0
+487,1016,Egret Badminton Club,EGRET Badminton Club,1.0
+497,1030,PalaBadminton,Palabadminton,1.0
+506,1292,San Gabriel Valley Badminton Court,San Gabrile Valley Badminton Club,0.8333333333333334
+507,603,Polideportivo Corredoria Arena,Polideportivo Corredoira Arena,0.9285714285714286
+512,1419,Sportarena (Sportforum) Beriln,Sportarena ( Sportforum) Berlin,0.9285714285714286
+517,1110,city sport hall,City Sport Hall,1.0
+521,755,Velohal,VELO Hall,0.875
+526,1116,Sporthall Medvode,Sport hall Medvode,1.0
+532,915,Sport Hall Marino Cvetkovic,Sport hall Marino Cvetkovic,1.0
+532,1154,Sport Hall Marino Cvetkovic,Sport hall Marino Cvetković,0.9583333333333334
+532,1446,Sport Hall Marino Cvetkovic,Sport Hall Marino Cvetković,0.9583333333333334
+533,641,Bintang Badmitnon,Bintang Badminton,0.875
+535,628,"Sporthall ""Marino Cvetkovic""","Sporthall ""Marino Cvetković""",0.9615384615384616
+538,637,Polideportivo Marques de Samaranch,Polideportivo Marqués de Samaranch,0.967741935483871
+539,1106,Egret Badminton Center,Elite Badminton Center,0.8
+539,1455,Egret Badminton Center,ELITE BADMINTON CENTER,0.8
+540,984,Hatzor Sport Hall,Hatzor sport hall,1.0
+548,1206,NGUYEN DU Stadium,Nguyen Du Stadium,1.0
+564,1376,Altona Badminton Centre,Ascend Badminton Centre,0.8095238095238095
+565,822,Hall Omnisport La Prealle,Hall Omnisport La Préalle,0.9545454545454546
+568,936,Sport Hall Olympic,Sport Hall Olympik,0.9375
+578,851,City Sport Hall Orlova,City Sporthall Orlova,1.0
+580,731,Sportove Centrum M-SPORT,Sportove centrum M-SPORT,1.0
+580,828,Sportove Centrum M-SPORT,Sportove centrum M-Sport,1.0
+580,874,Sportove Centrum M-SPORT,Sportove Centrum M-Sport,1.0
+593,1263,SPH GYM 2101,SPH Gym 2101,1.0
+604,688,ClearOne Sports Center,ClearOne Sports Centre,0.9
+615,753,CODE II Jalisco,CODE II JALISCO,1.0
+618,1222,PEMBANGUNAN JAYA RAYA Badminton Training Center,Pembangunan Jaya Raya Badminton Training Center,1.0
+624,890,Gospino Polje Sports Hall,Gospino Polje Sports hall,1.0
+628,771,"Sporthall ""Marino Cvetković""",Sports Hall Marino Cvetković,0.8076923076923077
+631,918,Shannon Pohl Badminton Academy / Adversity Volleyball Center,Shannon Pohl Badminton Academy (Adveristy Volleyball Center),0.9259259259259259
+631,1299,Shannon Pohl Badminton Academy / Adversity Volleyball Center,Shannon Pohl Badminton Academy/Adversity Volleyball Center,1.0
+636,1323,National Badminton Centre,National Badminton Center,0.9130434782608695
+642,985,Arena,ARENA,1.0
+655,764,Sport hall “Vasil Levsky”,"Sport hall ""Vasil Levski""",0.8636363636363636
+655,906,Sport hall “Vasil Levsky”,Sport hall 'Vasil Levski',0.8636363636363636
+655,946,Sport hall “Vasil Levsky”,"Sport Hall ""Vasil Levski""",0.8636363636363636
+655,1315,Sport hall “Vasil Levsky”,Sport Hall “Vasil Levski”,0.9545454545454546
+657,1285,Atlanta Badminton Club,Atlanta Badminton Club 2,0.9523809523809523
+659,675,Športové centrum M-SPORT Trenčín,Športové centrum M-Šport Trenčín,0.9655172413793104
+659,1041,Športové centrum M-SPORT Trenčín,Sportove centrum M-Sport Trencin,0.8620689655172413
+659,1092,Športové centrum M-SPORT Trenčín,Sportove centrum M-sport Trencin,0.8620689655172413
+659,1209,Športové centrum M-SPORT Trenčín,Sportove Centrum M-sport Trencin,0.8620689655172413
+667,798,"""NEPTŪNO"" Sports Hall","""NEPTŪNO"" sports hall",1.0
+667,953,"""NEPTŪNO"" Sports Hall","""NEPTŪNO"" Sports hall",1.0
+671,1443,FEDERACION NACIONAL DE BADMINTON,Federación Nacional de Bádminton,0.9310344827586207
+675,1041,Športové centrum M-Šport Trenčín,Sportove centrum M-Sport Trencin,0.8275862068965517
+675,1092,Športové centrum M-Šport Trenčín,Sportove centrum M-sport Trencin,0.8275862068965517
+675,1209,Športové centrum M-Šport Trenčín,Sportove Centrum M-sport Trencin,0.8275862068965517
+678,832,"Sport Hall ""Europe""",Sport Hall „Europe“,0.8823529411764706
+682,1462,GOR AMONGROGO,GOR AMONG RAGA,0.8333333333333334
+684,690,Palacio Gioriver Arias,Palacio Georiver Arias,0.95
+696,801,Gentofte Badminton Hal tbc,Gentofte Badminton hal,0.8695652173913043
+700,897,San Gabriel Valley Badminton Club (SGVBC),San Gabriel Valley Badminton Club - Pomona,0.8055555555555556
+704,994,City Sports Hall Orlova,City Sports Hall Orlová,0.95
+708,848,Lobatse Sports Complex,Lobtase Sports Complex,0.9
+711,1002,Olympic Youth Development Centre,Olympic youth development centre,1.0
+720,1165,Axiata Arena,AXIATA ARENA,1.0
+730,740,"Campus Recreation and Wellness Centre, UOIT",Campus Recreation and Wellness Centre (UOIT),0.9487179487179487
+731,828,Sportove centrum M-SPORT,Sportove centrum M-Sport,1.0
+731,874,Sportove centrum M-SPORT,Sportove Centrum M-Sport,1.0
+742,1208,DOM SPORTOVA,Dom sportova,1.0
+764,906,"Sport hall ""Vasil Levski""",Sport hall 'Vasil Levski',0.9090909090909091
+764,946,"Sport hall ""Vasil Levski""","Sport Hall ""Vasil Levski""",1.0
+764,1315,"Sport hall ""Vasil Levski""",Sport Hall “Vasil Levski”,0.9090909090909091
+769,922,QUAYCENTRE,Quaycentre,1.0
+769,1229,QUAYCENTRE,Quay Centre,1.0
+770,910,Polideportivo 2 - CAR Videna,POLIDEPORTIVO 2 - CAR VIDENA,1.0
+797,952,CREPS BORDEAUX - Gymnase HAND/BAD,Creps Bordeaux - Gymnase Hand/Bad,1.0
+797,1078,CREPS BORDEAUX - Gymnase HAND/BAD,CREPS Bordeaux - Gymnase Hand/Bad,1.0
+798,953,"""NEPTŪNO"" sports hall","""NEPTŪNO"" Sports hall",1.0
+801,956,Gentofte Badminton hal,Gentofte Badminton Club,0.8095238095238095
+801,1079,Gentofte Badminton hal,Gentofte Badmintonklub,0.8095238095238095
+803,1080,Hvidovre Badminton Club,Hvidovre Badminton Klub,0.9523809523809523
+811,1194,Club28 Badminton Philadelphia,Club28 badminton Philadelphia,1.0
+811,1342,Club28 Badminton Philadelphia,Club 28 badminton Philadelphia,1.0
+819,1088,Gimnasio Teodoro Palacios Flores,GIMNASIO TEODORO PALACIOS FLORES,1.0
+825,961,NAS Sports Complex,NAS Sports complex,1.0
+828,874,Sportove centrum M-Sport,Sportove Centrum M-Sport,1.0
+829,876,Triangle Badminton Club (TBC),Triangle Badminton Club,0.8076923076923077
+833,972,Delfi sports centre,Delfi Sports Centre,1.0
+833,1380,Delfi sports centre,Delfi Sporto Centras,0.8333333333333334
+842,917,Yan Long Badminton Club,YAN LONG BADMINTON CLUB,1.0
+856,967,National Sports counsil,National Sports Council,0.9523809523809523
+865,1019,Indoor Stadium Huamark,Indoor stadium Huamark,1.0
+870,1076,Complexe Sportif Regional,Complexe Sportif Régional,0.9565217391304348
+871,1029,Vall d’Hebron Olympic Sports Centre,Vall d'Hebron Olympic Sports Centre,0.967741935483871
+875,1032,Badmintonhall DEGIRO,Badmintonhall DEGIRO hall,0.8260869565217391
+877,1091,Arena Badminton Club,ARENA BADMINTON CLUB,1.0
+891,1356,Arena Badminton & Sports Club,Arena Badminton & Sport Club,0.8
+899,1381,Banthongyord badminton school,Banthongyord Badminton School,1.0
+906,946,Sport hall 'Vasil Levski',"Sport Hall ""Vasil Levski""",0.9090909090909091
+906,1315,Sport hall 'Vasil Levski',Sport Hall “Vasil Levski”,0.9090909090909091
+907,912,National Athletic Center,National Athletic Center Mikra,0.8148148148148148
+915,1154,Sport hall Marino Cvetkovic,Sport hall Marino Cvetković,0.9583333333333334
+915,1446,Sport hall Marino Cvetkovic,Sport Hall Marino Cvetković,0.9583333333333334
+918,1299,Shannon Pohl Badminton Academy (Adveristy Volleyball Center),Shannon Pohl Badminton Academy/Adversity Volleyball Center,0.9259259259259259
+919,1039,Zemgales Olimpiskais Centrs,Zemgales Olimpiskais centrs,1.0
+922,1229,Quaycentre,Quay Centre,1.0
+944,1320,Polideportivo 3,Polideportivo 1,0.9285714285714286
+946,1315,"Sport Hall ""Vasil Levski""",Sport Hall “Vasil Levski”,0.9090909090909091
+952,1078,Creps Bordeaux - Gymnase Hand/Bad,CREPS Bordeaux - Gymnase Hand/Bad,1.0
+956,1079,Gentofte Badminton Club,Gentofte Badmintonklub,0.9523809523809523
+970,1006,Atlanta Recreation club,Atlanta Recreation Club,1.0
+970,1047,Atlanta Recreation club,ATLANTA RECREATION CLUB,1.0
+972,1380,Delfi Sports Centre,Delfi Sporto Centras,0.8333333333333334
+982,983,Egyptian Badminton Federation,Algerian badminton federation,0.8148148148148148
+996,1014,Smashville MainLine,Smashville Mainline,1.0
+1000,1112,Sporthall Brežice,Sporthall Brezice,0.9375
+1006,1047,Atlanta Recreation Club,ATLANTA RECREATION CLUB,1.0
+1007,1043,IBC 2,IBC2,1.0
+1008,1143,Santa Fe Springs Badminton Club,Santa Fe Springs Badminton CLub,1.0
+1024,1094,Club28 Badminton,Club 28 Badminton,1.0
+1024,1187,Club28 Badminton,Club28 badminton,1.0
+1041,1092,Sportove centrum M-Sport Trencin,Sportove centrum M-sport Trencin,1.0
+1041,1209,Sportove centrum M-Sport Trencin,Sportove Centrum M-sport Trencin,1.0
+1067,1138,New Jersey Badminton Club,New Jersey Badminton CLub,1.0
+1072,1227,Sigulda sports centre,Sigulda Sports Center,0.8947368421052632
+1073,1075,Ankara Badminton Olympic Center,Ankara Badminton Olympic center,1.0
+1085,1147,Täby Racketcenter,Täby RacketCenter,1.0
+1090,1354,SC Sutinska Vrela,SD Sutinska vrela,0.9333333333333333
+1092,1209,Sportove centrum M-sport Trencin,Sportove Centrum M-sport Trencin,1.0
+1094,1187,Club 28 Badminton,Club28 badminton,1.0
+1097,1433,Gospino Polje hall,Gospino Polje Hall,1.0
+1099,1417,Westenergie Sporthalle,Westenergiesporthalle,1.0
+1102,1371,Langeskov Hallerne,Langeskov hallerne,1.0
+1106,1455,Elite Badminton Center,ELITE BADMINTON CENTER,1.0
+1120,1186,LONG ISLAND BADMINTON CENTER,LONG ISLAND BADMINTON CENTER (LIBC),0.8064516129032258
+1120,1211,LONG ISLAND BADMINTON CENTER,Long Island Badminton Center,1.0
+1130,1134,South Jersey Indoor Sports Club,South Jersey Indoor Sports Center,0.8275862068965517
+1137,1281,Rowland High School,Rowland HIgh School,1.0
+1153,1359,Bacqiang Gymnasium,Binjiang Gymnasium,0.8235294117647058
+1154,1446,Sport hall Marino Cvetković,Sport Hall Marino Cvetković,1.0
+1186,1211,LONG ISLAND BADMINTON CENTER (LIBC),Long Island Badminton Center,0.8064516129032258
+1192,1195,Gymnase Institut Régional de Santé Publique (IRSP Ouidah),Gymnase Institut Régional de Santé Publique )IRSP Ouida)h,0.94
+1194,1342,Club28 badminton Philadelphia,Club 28 badminton Philadelphia,1.0
+1225,1389,Chicago Badminton Academy,chicago badminton academy,1.0
+1230,1385,OYDC ZAMBIA - SPORTS DEVELOPMENT CENTRE,OYDC Zambia - Sports Development Centre,1.0
+1231,1294,NETS & TURF,Nets & Turf,1.0
+1238,1352,Chaengwattana Hall @ Central Plaza Chaengwattana,"Chaengwattana Hall, Central Plaza Chaengwattana,",0.9545454545454546
+1242,1329,Nets and Turf,Nets and turf,1.0
+1274,1378,MBC @ NAPERVILLE,MBC - Naperville,0.9285714285714286
+1278,1427,Cerritos High School,Cerritos High School Gym,0.8571428571428571
+1308,1456,Salle metropolitaine de la Trocardière,Salle Metropolitaine de la Trocardière,1.0
+1363,1437,Vantaa Energia Arena,Vantaa Energia Areena,0.8421052631578947
+1384,1413,Ramsey Student Center; Gym East,Ramsey Student Center - Gym East,0.9629629629629629
+1405,1420,Pioneer Badminton Club,Pioneer Badminton,0.8

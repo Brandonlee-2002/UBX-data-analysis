@@ -1,0 +1,193 @@
+Shula's Hotel and Golf Club | ID: 2, 61, 191 (no address, just city)
+
+Shula's Athletic CLub | ID: 51, 646, 1334
+
+Bay Badminton Burlingame | ID: 4, 33, 88, 141, 
+
+Bay Badminton Center Milpitas | ID: 409, 423
+
+Orange County Badminton Club | ID: 8, 134, 259, 1200, 28, 38, 
+
+Ajax High School | ID: 9, 21
+
+Kelowna Badminton Club | ID: 12, 51
+
+Brushy Creek Community Center | ID: 16, 881
+
+NETS & TURF | ID: 1231, 1242, 1294, 1329, 1387
+
+MIT Rockwell Cage | ID: 27, 75, 138, 353, 524, 
+
+Bintang Milpitas | ID: 533(mispelled as badmitnon), 360, 439, 
+
+Bintang Badminton SSF (closed in 2020) | ID: 79, 116, 117, 256, 288, 412, 493, 641
+
+Texins Activity Centers | ID: 29, 142
+
+John Bowne High School | ID: 32, 69, 86, 255, 541,
+
+Ryerson Kerr Hall Gym | ID: 36, 63, 151, 305, 324, 54, 718, 1358, 1375
+
+Durham College | ID: 39 (no address, unsure), 756, 900
+
+Athletic Centre (University of Toronto) | ID: 40, 43, 45, 103, 266
+
+Manhattan Beach Badminton Club | ID: 41, 446
+
+ZBTC (known as EBC) | ID: 44, 95
+
+University Of Arizona Recreation Center | ID: 139, 335 (typo), 990, 1093, 1228, 1258, 1391
+
+UT Arlington - Maverick Center | ID: 46, 97, 159, 272
+
+CP Badminton Club | ID: 47, 81, 98
+
+UCLA Student Activities Center | ID: 49, 473, 836, 1221
+
+Fonde Recreation Center | ID: 52, 394
+
+TAS Secondary School | ID: 53, 62
+
+Bellevue badminton club (13405 se 30th street) | ID: 57, 104, 115, 
+
+Bellevue Badminton Club (Harbour Pointe) | ID: 1123, 1340, 
+
+Bellevue Badminton Club -- Renton | ID: 991, 1458
+
+TAS Secondary School | ID: 53, 62
+
+California Badminton Academy (acquired by Synergy, now called Fremont Mission) | ID: 66, 267, 663
+
+Kingston Collegiate & Vocational Institute | ID: 67, 120, 237, 741
+
+Purdue Recreation & Wellness | ID: 693, 812, 
+
+Los Angeles Badminton Club | ID: 77, 84, 215, 
+
+Boston Badminton Club | ID: 82, 147, 763, 367, 109 (typo), 
+
+Richmond Olympic Oval | ID: 91, 150, 263
+
+Richmond Pro Badminton Centre | ID: 174, 249, 1022
+
+University of Rochester Georgen Gymnasium | ID: 101, 124, 465, 108, 286, 426
+
+UNC Fetzer Gym | ID: 106, 410
+
+UNCG Middle College | ID: 1174, 1327
+
+Bryn Mawr College - Schwartz Gym | ID: 110, 331
+
+North Gym, University of Maryland | ID: 114, 221, 320, 593, 1263, 1422
+
+SGVBC Pomona | ID: 119, 700, 897, 377 (unsure about this one),
+
+UBC (closed in 2020, new gym opened as Happy Birdie) | ID: 126, 590, 
+
+Atlanta Recreation club (Pine Grove Rd) | ID: 970, 1006, 1047
+
+University of Central Oklahoma- Wellness Center | ID: 136, 230
+
+Badminton Center Court (Lakewood) | ID: 144, 200, 236
+
+San Diego Badminton Center Court | ID: 597, 614
+
+International Badminton Center (Edison) | ID: 148, 1286, 959
+
+IBC (Pine Brook) | ID: 1007, 1043, 1176, 
+
+LONG ISLAND BADMINTON CENTER | ID: 1120, 1186, 1211, 1241, 1253
+
+NJ Badminton Club | ID: 166, 290, 1067, 1138
+
+Richmond Pro Badminton Centre | ID: 174, 249, 1022
+
+Cambie Secondary School | ID: 100, 187
+
+Valley Forge Baptist Temple | ID: 262, 418
+
+Cleveland Convention Center | ID: 264, 537
+
+ClearOne Badminton Centre - Orlando | ID: 273, 390, 442, 542, 604, 688, 841
+
+Carmichael Gymnasium (NC State) | ID: 289, 467
+
+Eastbay Badminton Association (EBA) | ID: 295, 973, 
+
+Kimberton Badminton Club | ID: 308, 629
+
+Synergy Badminton (Menlo Park) | ID: 316, 610, 1297, 1408, 1431
+
+Synergy Badminton (Fremont) | ID: 1131, 1157, 1262, 1408, 1431
+
+Thomas A Stewart Secondary School | ID: 3, 318
+
+Midwest Badminton Club (Naperville) | ID: 321, 375, 384, 1012, 1274, 1309, 1368, 1378, 1404,
+
+Midwest Badminton Club (Woodridge) | ID: 1062, 1087, 1261, 1293
+
+Midwest Badminton Club (Buffalo Grove) | ID: 1441, 1280,
+
+U.C. Berkeley Recreational Sports Facility | ID: 322, 454, 
+
+Shannon Pohl Badiminton Academy | ID: 328, 413, 631, 918, 1299
+
+Egret Badminton Club (Schaumburg) | ID: 347, 487, 501, 539, 594, 793, 1016, 1105
+
+Egret Badminton Club (Naperville) | ID: 1013, 1173, 1328
+
+Suffolk County Community College | ID: 361, 370
+
+Champions FieldHouse | ID: 365, 380
+
+George R. Brown Convention Center | ID: 85, 371
+
+Northside Aztlan Community Center | ID: 376, 558
+
+Smashville (Pottstown) | ID: 385, 681, 873, 893
+
+Smashville (King of Prussia) | ID: 996, 1014, 1064
+
+Triangle Badminton Club | ID: 829, 876
+
+Triangle Badminton and Table Tennis | ID: 1036, 1065, 1136
+
+NVBC | ID: 415, 420
+
+Zornow Courts in the Goergen Athletic Center | ID: 426, 465
+
+ESTERO RECREATION CENTER | ID: 436, 561
+
+Maugus Club, | ID: 437, 527, 772
+
+Lucky Shoals Park | ID: 149, 445
+
+Northside Aztlan Community Center | ID: 376, 451, 558
+
+Leonard Recretion Center | ID: 457, 563
+
+Charlotte Badminton Club | ID: 476, 586
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

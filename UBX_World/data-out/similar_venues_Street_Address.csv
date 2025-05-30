@@ -1,0 +1,774 @@
+Venue1_Id,Venue2_Id,Venue_StreetAddress1,Venue_StreetAddress2,Similarity
+1,610,190 Constitution Drive,190 Constitution Dr,0.85
+2,61,6842 Main Street,6842 Main Street,1.0
+3,53,1009 Armour Road North,1009 Armour Road North,1.0
+3,62,1009 Armour Road North,1009 Armour Road North,1.0
+4,33,1611 Adrian Road,1611 Adrian Road,1.0
+4,88,1611 Adrian Road,1611 Adrian Road,1.0
+8,134,1432 North Main Street,1432 North Main Street,1.0
+9,21,105 Bayly Street East,105 Bayly Street East,1.0
+10,217,Vogelweidplatz 14,Vogelweidplatz 14,1.0
+10,509,Vogelweidplatz 14,Vogelweidplatz 14,1.0
+11,942,2145 Park Blvd,2145 Park Blvd,1.0
+11,1031,2145 Park Blvd,2145 Park Blvd.,0.9230769230769231
+14,219,An den Sportstätten 6,An den Sportstätten 6,1.0
+14,605,An den Sportstätten 6,An den Sportstätten 6,1.0
+14,979,An den Sportstätten 6,An den Sportstätten 6,1.0
+14,1099,An den Sportstätten 6,An den Sportstätten 6,1.0
+14,1417,An den Sportstätten 6,An den Sportstätten 6,1.0
+16,881,16318 Great Oaks Drive,16318 Great Oaks Drive,1.0
+23,42,10410 Valley Blvd.,10410 Valley Blvd.,1.0
+23,77,10410 Valley Blvd.,10410 Valley Blvd,0.9375
+23,84,10410 Valley Blvd.,10410 Valley Blvd.,1.0
+23,221,10410 Valley Blvd.,10410 Valley Blvd,0.9375
+26,102,9255 Telstar Ave,9255 Telstar Avenue,0.8235294117647058
+26,123,9255 Telstar Ave,9255 Telstar Ave,1.0
+26,128,9255 Telstar Ave,9255 Telstar Ave,1.0
+26,382,9255 Telstar Ave,9255 TELSTAR AVE,1.0
+26,411,9255 Telstar Ave,9255 TELSTAR AVENUE,0.8235294117647058
+26,481,9255 Telstar Ave,9255 Telstar ave,1.0
+26,488,9255 Telstar Ave,9255 Telstar Ave,1.0
+26,506,9255 Telstar Ave,9255 Telstar Ave,1.0
+26,723,9255 Telstar Ave,9255 Telstar Ave,1.0
+28,38,1432 N. Main St.,1432 N. Main St,0.9230769230769231
+28,259,1432 N. Main St.,1432 N. Main St.,1.0
+29,142,13900 North Central Expressway,13900 North Central Expressway,1.0
+33,88,1611 Adrian Road,1611 Adrian Road,1.0
+38,259,1432 N. Main St,1432 N. Main St.,0.9230769230769231
+40,43,55 Harbord Street,55 Harbord Street,1.0
+40,45,55 Harbord Street,55 Harbord Street,1.0
+40,103,55 Harbord Street,55 Harbord Street,1.0
+40,266,55 Harbord Street,55 Harbord Street,1.0
+42,77,10410 Valley Blvd.,10410 Valley Blvd,0.9375
+42,84,10410 Valley Blvd.,10410 Valley Blvd.,1.0
+42,221,10410 Valley Blvd.,10410 Valley Blvd,0.9375
+43,45,55 Harbord Street,55 Harbord Street,1.0
+43,103,55 Harbord Street,55 Harbord Street,1.0
+43,266,55 Harbord Street,55 Harbord Street,1.0
+44,95,33540 Central Ave,33540 Central Avenue,0.8333333333333334
+44,1106,33540 Central Ave,33540 Central Ave,1.0
+45,103,55 Harbord Street,55 Harbord Street,1.0
+45,266,55 Harbord Street,55 Harbord Street,1.0
+46,97,500 W. Nedderman Drive,500 W.Nedderman Drive,1.0
+46,272,500 W. Nedderman Drive,500 W. Nedderman Drive,1.0
+47,81,20-24 119th Street,20-24 119th Street,1.0
+47,98,20-24 119th Street,20-24 119th Street,1.0
+47,883,20-24 119th Street,20-24 119th Street,1.0
+49,473,220 Westwood Plaza,220 Westwood Plaza,1.0
+49,836,220 Westwood Plaza,220 Westwood Plz,0.8125
+49,1221,220 Westwood Plaza,220 Westwood Plaza,1.0
+51,646,15150 Bull Run Road,15150 Bull Run Road,1.0
+51,1334,15150 Bull Run Road,15150 Bull Run Road,1.0
+52,394,110 Sabine St.,110 Sabine St.,1.0
+53,62,1009 Armour Road North,1009 Armour Road North,1.0
+60,113,Falkoner Alle 9,Falkoner Alle 9,1.0
+60,208,Falkoner Alle 9,Falkoner Alle 9,1.0
+60,407,Falkoner Alle 9,Falkoner alle 9,1.0
+63,151,379 Victoria Street,379 Victoria Street,1.0
+63,305,379 Victoria Street,379 Victoria Street,1.0
+63,658,379 Victoria Street,350 Victoria Street,0.8823529411764706
+63,718,379 Victoria Street,350 Victoria Street,0.8823529411764706
+63,1358,379 Victoria Street,379 Victoria Street,1.0
+67,120,235 Frontenac St,235 Frontenac St.,0.9333333333333333
+67,237,235 Frontenac St,235 Frontenac St.,0.9333333333333333
+67,741,235 Frontenac St,235 Frontenac St,1.0
+69,86,63-25 Main Street,63-25 Main Street,1.0
+69,255,63-25 Main Street,63-25 MAIN STREET,1.0
+69,541,63-25 Main Street,63-25 Main Street,1.0
+75,138,120 Vassar Street,120 Vassar Street,1.0
+75,431,120 Vassar Street,106 Vasser Street,0.8
+75,767,120 Vassar Street,120 Vassar Street,1.0
+77,84,10410 Valley Blvd,10410 Valley Blvd.,0.9375
+77,221,10410 Valley Blvd,10410 Valley Blvd,1.0
+81,98,20-24 119th Street,20-24 119th Street,1.0
+81,883,20-24 119th Street,20-24 119th Street,1.0
+82,109,169 Flanders Rd,169 Flanders Road,0.8
+82,147,169 Flanders Rd,169 Flanders Road,0.8
+82,367,169 Flanders Rd,169 Flanders Road,0.8
+82,763,169 Flanders Rd,169 Flanders Rd,1.0
+83,87,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,119,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,153,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+83,162,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,238,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,253,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,339,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,398,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+83,417,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+83,440,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+83,650,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,700,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+83,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+84,221,10410 Valley Blvd.,10410 Valley Blvd,0.9375
+86,255,63-25 Main Street,63-25 MAIN STREET,1.0
+86,541,63-25 Main Street,63-25 Main Street,1.0
+87,119,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+87,153,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+87,162,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+87,238,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+87,253,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+87,339,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+87,398,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+87,417,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+87,440,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+87,650,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+87,700,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+87,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+87,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+95,1106,33540 Central Avenue,33540 Central Ave,0.8333333333333334
+97,272,500 W.Nedderman Drive,500 W. Nedderman Drive,1.0
+98,883,20-24 119th Street,20-24 119th Street,1.0
+100,187,4151 Jacombs Road,4151 Jacombs Road,1.0
+102,123,9255 Telstar Avenue,9255 Telstar Ave,0.8235294117647058
+102,128,9255 Telstar Avenue,9255 Telstar Ave,0.8235294117647058
+102,382,9255 Telstar Avenue,9255 TELSTAR AVE,0.8235294117647058
+102,411,9255 Telstar Avenue,9255 TELSTAR AVENUE,1.0
+102,481,9255 Telstar Avenue,9255 Telstar ave,0.8235294117647058
+102,488,9255 Telstar Avenue,9255 Telstar Ave,0.8235294117647058
+102,506,9255 Telstar Avenue,9255 Telstar Ave,0.8235294117647058
+102,723,9255 Telstar Avenue,9255 Telstar Ave,0.8235294117647058
+103,266,55 Harbord Street,55 Harbord Street,1.0
+109,147,169 Flanders Road,169 Flanders Road,1.0
+109,367,169 Flanders Road,169 Flanders Road,1.0
+109,763,169 Flanders Road,169 Flanders Rd,0.8
+113,208,Falkoner Alle 9,Falkoner Alle 9,1.0
+113,407,Falkoner Alle 9,Falkoner alle 9,1.0
+116,117,245 South Spruce Ave,245 South Spruce Ave,1.0
+116,493,245 South Spruce Ave,245 South Spruce Avenue,0.85
+117,493,245 South Spruce Ave,245 South Spruce Avenue,0.85
+119,153,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+119,162,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+119,238,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+119,253,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+119,339,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+119,398,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+119,417,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+119,440,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+119,650,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+119,700,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+119,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+119,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+120,237,235 Frontenac St.,235 Frontenac St.,1.0
+120,741,235 Frontenac St.,235 Frontenac St,0.9333333333333333
+123,128,9255 Telstar Ave,9255 Telstar Ave,1.0
+123,382,9255 Telstar Ave,9255 TELSTAR AVE,1.0
+123,411,9255 Telstar Ave,9255 TELSTAR AVENUE,0.8235294117647058
+123,481,9255 Telstar Ave,9255 Telstar ave,1.0
+123,488,9255 Telstar Ave,9255 Telstar Ave,1.0
+123,506,9255 Telstar Ave,9255 Telstar Ave,1.0
+123,723,9255 Telstar Ave,9255 Telstar Ave,1.0
+128,382,9255 Telstar Ave,9255 TELSTAR AVE,1.0
+128,411,9255 Telstar Ave,9255 TELSTAR AVENUE,0.8235294117647058
+128,481,9255 Telstar Ave,9255 Telstar ave,1.0
+128,488,9255 Telstar Ave,9255 Telstar Ave,1.0
+128,506,9255 Telstar Ave,9255 Telstar Ave,1.0
+128,723,9255 Telstar Ave,9255 Telstar Ave,1.0
+136,230,100 N. University Drive,100 N. University Drive,1.0
+138,431,120 Vassar Street,106 Vasser Street,0.8
+138,767,120 Vassar Street,120 Vassar Street,1.0
+144,200,3699 Industry Avenue,3699 Industry Avenue,1.0
+144,920,3699 Industry Avenue,3699 INUDSTRY AVENUE,0.8888888888888888
+144,1259,3699 Industry Avenue,3699 Industry Ave.,0.8333333333333334
+147,367,169 Flanders Road,169 Flanders Road,1.0
+147,763,169 Flanders Road,169 Flanders Rd,0.8
+148,959,3775 Park Ave,3775 Park Ave,1.0
+148,1286,3775 Park Ave,3775 PARK AVE,1.0
+151,305,379 Victoria Street,379 Victoria Street,1.0
+151,658,379 Victoria Street,350 Victoria Street,0.8823529411764706
+151,718,379 Victoria Street,350 Victoria Street,0.8823529411764706
+151,1358,379 Victoria Street,379 Victoria Street,1.0
+153,162,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+153,238,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+153,253,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+153,339,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+153,398,3410 Pomona Blvd.,3410 Pomona Blvd.,1.0
+153,417,3410 Pomona Blvd.,3410 POMONA BLVD,0.9333333333333333
+153,440,3410 Pomona Blvd.,3410 POMONA BLVD,0.9333333333333333
+153,650,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+153,700,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+153,840,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+153,897,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+160,274,Modern High School Premises,Modern High School Premises,1.0
+160,453,Modern High School Premises,Modern High School Premises,1.0
+161,271,Sportova 10,Športova 10,0.9
+162,238,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+162,253,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+162,339,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+162,398,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+162,417,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+162,440,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+162,650,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+162,700,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+162,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+162,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+170,458,Reu Emile Muraille 158,Rue Emile Muraille 158,0.8947368421052632
+170,565,Reu Emile Muraille 158,Rue Emile Muraille 158,0.8947368421052632
+173,968,Vodova 108,Vodova 108,1.0
+180,470,Ved Stadion 4,Ved Stadion 4,1.0
+180,696,Ved Stadion 4,Ved Stadion 4,1.0
+180,801,Ved Stadion 4,Ved Stadion 4,1.0
+180,956,Ved Stadion 4,Ved Stadion 4,1.0
+180,1079,Ved Stadion 4,Ved Stadion 4,1.0
+185,292,avenue des trois lacs 1,Avenue des trois lacs 1,1.0
+185,474,avenue des trois lacs 1,Avenue des Trois Lacs 1,1.0
+188,214,12336 Lower Azusa Rd.,12336 Lower Azusa,0.8333333333333334
+188,216,12336 Lower Azusa Rd.,12336 Lower Azusa Rd,0.9444444444444444
+193,323,Gnodavogi 1,Gnoðavogi 1,0.9
+193,505,Gnodavogi 1,Gnoðavogi 1,0.9
+193,598,Gnodavogi 1,Gnoðavogi 1,0.9
+195,578,Masarykova 1313,Masarykova 1313,1.0
+195,704,Masarykova 1313,Masarykova 1313,1.0
+195,994,Masarykova 1313,Masarykova 1313,1.0
+195,1110,Masarykova 1313,Masarykova 1313,1.0
+200,920,3699 Industry Avenue,3699 INUDSTRY AVENUE,0.8888888888888888
+200,1259,3699 Industry Avenue,3699 Industry Ave.,0.8333333333333334
+207,312,Brabourne Stadium Dinshaw Vachha Road Churchgate,Brabourne Stadium Dinshaw Vachha Road Churchgate,1.0
+208,407,Falkoner Alle 9,Falkoner alle 9,1.0
+214,216,12336 Lower Azusa,12336 Lower Azusa Rd,0.8823529411764706
+217,509,Vogelweidplatz 14,Vogelweidplatz 14,1.0
+219,605,An den Sportstätten 6,An den Sportstätten 6,1.0
+219,979,An den Sportstätten 6,An den Sportstätten 6,1.0
+219,1099,An den Sportstätten 6,An den Sportstätten 6,1.0
+219,1417,An den Sportstätten 6,An den Sportstätten 6,1.0
+224,334,No. 1 Lorong 23 Geylang,No. 1 Lorong 23 Geylang,1.0
+225,336,Pileckiego Street 122,Pileckiego Street 122,1.0
+227,424,rue Eugene vignat,Rue Eugene Vignat,1.0
+227,515,rue Eugene vignat,Rue Eugene Vignat,1.0
+229,425,Rajatorpantie 23,Rajatorpantie 23,1.0
+229,749,Rajatorpantie 23,Rajatorpantie 23,1.0
+229,1363,Rajatorpantie 23,Rajatorpantie 23,1.0
+229,1437,Rajatorpantie 23,Rajatorpantie 23,1.0
+233,619,Trg Kresimira Cosica 11,Trg Krešimira Ćosića 11,0.85
+233,742,Trg Kresimira Cosica 11,TRG KREŠIMIRA ČOSIĆA 11,0.85
+233,1208,Trg Kresimira Cosica 11,Trg Krešimira Ćosića 11,0.85
+235,521,Noordweg 26,Noordweg 26,1.0
+235,755,Noordweg 26,Noordweg 26,1.0
+235,1276,Noordweg 26,Noordweg 26,1.0
+237,741,235 Frontenac St.,235 Frontenac St,0.9333333333333333
+238,253,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+238,339,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+238,398,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+238,417,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+238,440,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+238,650,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+238,700,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+238,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+238,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+240,352,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+240,526,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+240,1116,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+244,355,Paseo Imperial 18,Paseo Imperial 18,1.0
+244,434,Paseo Imperial 18,Paseo Imperial 18,1.0
+244,538,Paseo Imperial 18,Paseo Imperial 18,1.0
+244,637,Paseo Imperial 18,Paseo Imperial 18,1.0
+244,926,Paseo Imperial 18,Paseo Imperial 18,1.0
+247,277,Perkuno al. 5,Perkūno al. 5,0.9090909090909091
+247,438,Perkuno al. 5,Perkuno al. 5,1.0
+247,634,Perkuno al. 5,Perkuno al. 5,1.0
+248,447,Senayan,Senayan,1.0
+248,528,Senayan,Senayan,1.0
+250,269,KAMPALA,KAMPALA,1.0
+253,339,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+253,398,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+253,417,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+253,440,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+253,650,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+253,700,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+253,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+253,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+255,541,63-25 MAIN STREET,63-25 Main Street,1.0
+267,638,46049 Warm Springs Blvd,46049 Warm Springs Blvd,1.0
+267,663,46049 Warm Springs Blvd,46049 Warm Springs Blvd,1.0
+273,604,4141 North John Young Parkway,4141 North John Young Parkway,1.0
+274,453,Modern High School Premises,Modern High School Premises,1.0
+277,438,Perkūno al. 5,Perkuno al. 5,0.9090909090909091
+277,634,Perkūno al. 5,Perkuno al. 5,0.9090909090909091
+281,568,Batareinaya str,Batareinaya str. 2,0.875
+281,936,Batareinaya str,Batareynaya str. 2,0.8125
+292,474,Avenue des trois lacs 1,Avenue des Trois Lacs 1,1.0
+294,581,Kibbutz Hatzor,Kibbutz Hatzor,1.0
+295,973,4230 Hubbard Street,4230 Hubbard Street,1.0
+305,658,379 Victoria Street,350 Victoria Street,0.8823529411764706
+305,718,379 Victoria Street,350 Victoria Street,0.8823529411764706
+305,1358,379 Victoria Street,379 Victoria Street,1.0
+321,375,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+321,384,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+321,1012,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+322,454,2301 Bancroft Way,2301 Bancroft Way,1.0
+323,505,Gnoðavogi 1,Gnoðavogi 1,1.0
+323,598,Gnoðavogi 1,Gnoðavogi 1,1.0
+328,413,Adversity Volleyball Center 710 Corporate Woods Pkwy.,Adversity Volleyball Center 710 Corporate Woods Pkwy,0.9787234042553191
+332,416,Badmintonpad 1,Badmintonpad 1,1.0
+332,510,Badmintonpad 1,Badmintonpad 1,1.0
+332,606,Badmintonpad 1,Badmintonpad 1,1.0
+333,511,Av. Vasco da Gama,Av. Vasco da Gama,1.0
+338,497,"Via Giovanni Cimabue, 24",Via Giovanni Cimabue 24,0.8571428571428571
+338,1030,"Via Giovanni Cimabue, 24",Via Giovanni Cimabue 24,0.8571428571428571
+339,398,3410 Pomona Blvd,3410 Pomona Blvd.,0.9333333333333333
+339,417,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+339,440,3410 Pomona Blvd,3410 POMONA BLVD,1.0
+339,650,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+339,700,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+339,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+339,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+347,487,1251 Basswood Rd.,1251 Basswood Road,0.8125
+347,501,1251 Basswood Rd.,1251 Basswood Rd,0.9333333333333333
+347,539,1251 Basswood Rd.,1251 Basswood Rd.,1.0
+347,594,1251 Basswood Rd.,1251 Basswood Rd,0.9333333333333333
+347,793,1251 Basswood Rd.,1251 Basswood Road,0.8125
+347,1016,1251 Basswood Rd.,1251 Basswood Rd,0.9333333333333333
+347,1105,1251 Basswood Rd.,1251 Basswood Rd.,1.0
+352,526,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+352,1116,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+353,524,Rockwell Gymnasium 106 Vassar Street,Rockwell Gymnasium 106 Vassar Street,1.0
+355,434,Paseo Imperial 18,Paseo Imperial 18,1.0
+355,538,Paseo Imperial 18,Paseo Imperial 18,1.0
+355,637,Paseo Imperial 18,Paseo Imperial 18,1.0
+355,926,Paseo Imperial 18,Paseo Imperial 18,1.0
+360,439,746 S. Milpitas Blvd.,746 S. Milpitas Blvd.,1.0
+367,763,169 Flanders Road,169 Flanders Rd,0.8
+375,384,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+375,1012,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+382,411,9255 TELSTAR AVE,9255 TELSTAR AVENUE,0.8235294117647058
+382,481,9255 TELSTAR AVE,9255 Telstar ave,1.0
+382,488,9255 TELSTAR AVE,9255 Telstar Ave,1.0
+382,506,9255 TELSTAR AVE,9255 Telstar Ave,1.0
+382,723,9255 TELSTAR AVE,9255 Telstar Ave,1.0
+384,1012,2019 Corporate Lane Suite 103,2019 Corporate Lane Suite 103,1.0
+390,442,4141 N John Young Parkway,4141 N John Young Parkway,1.0
+390,688,4141 N John Young Parkway,4141 N John Young Parkway #3,0.9130434782608695
+398,417,3410 Pomona Blvd.,3410 POMONA BLVD,0.9333333333333333
+398,440,3410 Pomona Blvd.,3410 POMONA BLVD,0.9333333333333333
+398,650,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+398,700,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+398,840,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+398,897,3410 Pomona Blvd.,3410 Pomona Blvd,0.9333333333333333
+399,727,Basamalom utca 33.,Basamalom utca 33.,1.0
+402,496,Ihaste tee 7,Ihaste tee 7,1.0
+402,860,Ihaste tee 7,Ihaste tee 7,1.0
+402,1248,Ihaste tee 7,Ihaste tee 7,1.0
+402,1249,Ihaste tee 7,Ihaste tee 7,1.0
+402,1400,Ihaste tee 7,Ihaste tee 7,1.0
+404,589,Via della Stazione di Castel Fusano,Via della Stazione di Castel Fusano,1.0
+411,481,9255 TELSTAR AVENUE,9255 Telstar ave,0.8235294117647058
+411,488,9255 TELSTAR AVENUE,9255 Telstar Ave,0.8235294117647058
+411,506,9255 TELSTAR AVENUE,9255 Telstar Ave,0.8235294117647058
+411,723,9255 TELSTAR AVENUE,9255 Telstar Ave,0.8235294117647058
+412,641,"245 S. Spruce Ave, Suite 700","245 S. Spruce Ave, Suite 700",1.0
+416,510,Badmintonpad 1,Badmintonpad 1,1.0
+416,606,Badmintonpad 1,Badmintonpad 1,1.0
+417,440,3410 POMONA BLVD,3410 POMONA BLVD,1.0
+417,650,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+417,700,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+417,840,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+417,897,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+419,512,Weißenseer Weg 53,Weißenseer Weg 53,1.0
+419,1419,Weißenseer Weg 53,Weißenseer Weg 53,1.0
+422,480,2960 Washtenaw Avenue,2960 Washtenaw Ave,0.8421052631578947
+424,515,Rue Eugene Vignat,Rue Eugene Vignat,1.0
+425,749,Rajatorpantie 23,Rajatorpantie 23,1.0
+425,1363,Rajatorpantie 23,Rajatorpantie 23,1.0
+425,1437,Rajatorpantie 23,Rajatorpantie 23,1.0
+426,465,500 Joseph C Wilson blvd,500 Joseph C Wilson Blvd,1.0
+431,767,106 Vasser Street,120 Vassar Street,0.8
+434,538,Paseo Imperial 18,Paseo Imperial 18,1.0
+434,637,Paseo Imperial 18,Paseo Imperial 18,1.0
+434,926,Paseo Imperial 18,Paseo Imperial 18,1.0
+436,561,9200 Corkscrew Palms Blvd.,9200 Corkscrew Palms Blvd,0.9565217391304348
+438,634,Perkuno al. 5,Perkuno al. 5,1.0
+440,650,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+440,700,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+440,840,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+440,897,3410 POMONA BLVD,3410 Pomona Blvd,1.0
+442,688,4141 N John Young Parkway,4141 N John Young Parkway #3,0.9130434782608695
+447,528,Senayan,Senayan,1.0
+448,906,General Gurko st. 5,General Gurko str. 5,0.8235294117647058
+448,946,General Gurko st. 5,General Gurko str. 5,0.8235294117647058
+448,1315,General Gurko st. 5,General Gurko str.5,0.8235294117647058
+450,484,Ostrov 363,Ostrov 363,1.0
+450,731,Ostrov 363,Ostrov 363,1.0
+450,828,Ostrov 363,Ostrov 363,1.0
+450,1041,Ostrov 363,Ostrov 363,1.0
+450,1092,Ostrov 363,Ostrov 363,1.0
+450,1209,Ostrov 363,Ostrov 363,1.0
+457,563,6324 Ballinger Rd,6324 Ballinger Rd,1.0
+458,565,Rue Emile Muraille 158,Rue Emile Muraille 158,1.0
+462,566,Nad Kralovskou oborou 51,Nad Kralovskou oborou 51,1.0
+470,696,Ved Stadion 4,Ved Stadion 4,1.0
+470,801,Ved Stadion 4,Ved Stadion 4,1.0
+470,956,Ved Stadion 4,Ved Stadion 4,1.0
+470,1079,Ved Stadion 4,Ved Stadion 4,1.0
+473,836,220 Westwood Plaza,220 Westwood Plz,0.8125
+473,1221,220 Westwood Plaza,220 Westwood Plaza,1.0
+475,1349,Cesta na Fuzine 1,Cesta na Fužine 1,0.9285714285714286
+476,586,345 Hawthorne Ln,345 Hawthorne Lane,0.8125
+481,488,9255 Telstar ave,9255 Telstar Ave,1.0
+481,506,9255 Telstar ave,9255 Telstar Ave,1.0
+481,723,9255 Telstar ave,9255 Telstar Ave,1.0
+482,694,An der Saarlandhalle 1,An der Saarlandhalle 1,1.0
+484,731,Ostrov 363,Ostrov 363,1.0
+484,828,Ostrov 363,Ostrov 363,1.0
+484,1041,Ostrov 363,Ostrov 363,1.0
+484,1092,Ostrov 363,Ostrov 363,1.0
+484,1209,Ostrov 363,Ostrov 363,1.0
+486,516,2000 Observatory Dr,2000 Observatory Dr,1.0
+486,758,2000 Observatory Dr,2000 Observatory Dr,1.0
+486,844,2000 Observatory Dr,2000 Observatory Drive,0.85
+487,501,1251 Basswood Road,1251 Basswood Rd,0.8125
+487,539,1251 Basswood Road,1251 Basswood Rd.,0.8125
+487,594,1251 Basswood Road,1251 Basswood Rd,0.8125
+487,793,1251 Basswood Road,1251 Basswood Road,1.0
+487,1016,1251 Basswood Road,1251 Basswood Rd,0.8125
+487,1105,1251 Basswood Road,1251 Basswood Rd.,0.8125
+488,506,9255 Telstar Ave,9255 Telstar Ave,1.0
+488,723,9255 Telstar Ave,9255 Telstar Ave,1.0
+496,860,Ihaste tee 7,Ihaste tee 7,1.0
+496,1248,Ihaste tee 7,Ihaste tee 7,1.0
+496,1249,Ihaste tee 7,Ihaste tee 7,1.0
+496,1400,Ihaste tee 7,Ihaste tee 7,1.0
+497,1030,Via Giovanni Cimabue 24,Via Giovanni Cimabue 24,1.0
+501,539,1251 Basswood Rd,1251 Basswood Rd.,0.9333333333333333
+501,594,1251 Basswood Rd,1251 Basswood Rd,1.0
+501,793,1251 Basswood Rd,1251 Basswood Road,0.8125
+501,1016,1251 Basswood Rd,1251 Basswood Rd,1.0
+501,1105,1251 Basswood Rd,1251 Basswood Rd.,0.9333333333333333
+505,598,Gnoðavogi 1,Gnoðavogi 1,1.0
+506,723,9255 Telstar Ave,9255 Telstar Ave,1.0
+507,603,Calle Maestro Don Marciano,Calle Maestro Don Marciano,1.0
+508,547,1 Washington Sq,1 Washington Sq,1.0
+510,606,Badmintonpad 1,Badmintonpad 1,1.0
+512,1419,Weißenseer Weg 53,Weißenseer Weg 53,1.0
+516,758,2000 Observatory Dr,2000 Observatory Dr,1.0
+516,844,2000 Observatory Dr,2000 Observatory Drive,0.85
+517,611,123 Herzel Street,123 Herzel Street,1.0
+521,755,Noordweg 26,Noordweg 26,1.0
+521,1276,Noordweg 26,Noordweg 26,1.0
+526,1116,Ostrovrharjeva 4,Ostrovrharjeva 4,1.0
+531,769,Olympic Boulevard Sydney Olympic Park,Olympic Boulevard Sydney Olympic Park,1.0
+532,771,Stubiste Lipovica,Stubište Lipovica,0.9375
+532,915,Stubiste Lipovica,Stubište Lipovica 3,0.8823529411764706
+532,1154,Stubiste Lipovica,Stubište Lipovica 3,0.8823529411764706
+538,637,Paseo Imperial 18,Paseo Imperial 18,1.0
+538,926,Paseo Imperial 18,Paseo Imperial 18,1.0
+539,594,1251 Basswood Rd.,1251 Basswood Rd,0.9333333333333333
+539,793,1251 Basswood Rd.,1251 Basswood Road,0.8125
+539,1016,1251 Basswood Rd.,1251 Basswood Rd,0.9333333333333333
+539,1105,1251 Basswood Rd.,1251 Basswood Rd.,1.0
+545,1123,"3616 South Road, Building D","3616 South Road, Building D",1.0
+554,555,Coliseo Deportivo Ciudad de los Deportes Zona 4,coliseo deportivo ciudad de los deportes zona 4,1.0
+554,1086,Coliseo Deportivo Ciudad de los Deportes Zona 4,COLISEO DEPORTIVO CIUDAD DE LOS DEPORTES ZONA 4.,0.975609756097561
+554,1443,Coliseo Deportivo Ciudad de los Deportes Zona 4,Coliseo deportivo ciudad de los deportes zona 4,1.0
+555,1086,coliseo deportivo ciudad de los deportes zona 4,COLISEO DEPORTIVO CIUDAD DE LOS DEPORTES ZONA 4.,0.975609756097561
+555,1443,coliseo deportivo ciudad de los deportes zona 4,Coliseo deportivo ciudad de los deportes zona 4,1.0
+556,802,2 Sredna Gora Str.,2 Sredna Gora Str.,1.0
+556,935,2 Sredna Gora Str.,2 Sredna Gora Str.,1.0
+568,936,Batareinaya str. 2,Batareynaya str. 2,0.9375
+569,678,7 Iskarsko Shose Blvd.,7 Iskarsko Shose Blvd.,1.0
+569,948,7 Iskarsko Shose Blvd.,7 Iskarsko Shose blvd.,1.0
+578,704,Masarykova 1313,Masarykova 1313,1.0
+578,994,Masarykova 1313,Masarykova 1313,1.0
+578,1110,Masarykova 1313,Masarykova 1313,1.0
+580,659,Ostrov 363 Zamarovce,Ostrov 363 Zamarovce,1.0
+580,675,Ostrov 363 Zamarovce,Ostrov 363 Zamarovce,1.0
+585,587,Bangabandhu National Stadium Complex,Bangabandhu National Stadium Complex,1.0
+593,1263,4200 Valley Drive,4200 Valley Drive,1.0
+593,1422,4200 Valley Drive,4200 Valley Drive,1.0
+594,793,1251 Basswood Rd,1251 Basswood Road,0.8125
+594,1016,1251 Basswood Rd,1251 Basswood Rd,1.0
+594,1105,1251 Basswood Rd,1251 Basswood Rd.,0.9333333333333333
+605,979,An den Sportstätten 6,An den Sportstätten 6,1.0
+605,1099,An den Sportstätten 6,An den Sportstätten 6,1.0
+605,1417,An den Sportstätten 6,An den Sportstätten 6,1.0
+619,742,Trg Krešimira Ćosića 11,TRG KREŠIMIRA ČOSIĆA 11,0.95
+619,1208,Trg Krešimira Ćosića 11,Trg Krešimira Ćosića 11,1.0
+624,1097,Liechtensteinov put 10,Liechtensteinov put 10,1.0
+624,1433,Liechtensteinov put 10,Liechtensteinov put 10,1.0
+626,706,500 Esna Park Drive #8,500 Esna Park Drive #8,1.0
+637,926,Paseo Imperial 18,Paseo Imperial 18,1.0
+638,663,46049 Warm Springs Blvd,46049 Warm Springs Blvd,1.0
+646,1334,15150 Bull Run Road,15150 Bull Run Road,1.0
+650,700,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+650,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+650,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+658,718,350 Victoria Street,350 Victoria Street,1.0
+658,1358,350 Victoria Street,379 Victoria Street,0.8823529411764706
+659,675,Ostrov 363 Zamarovce,Ostrov 363 Zamarovce,1.0
+666,922,Sydney Olympic Park,Sydney Olympic Park,1.0
+667,798,Taikos pr. 61A,"Taikos pr. 61A,",0.9230769230769231
+667,953,Taikos pr. 61A,Taikos pr. 61A,1.0
+668,866,9586 Distribution Ave Suite E,9586 Distribution Ave Suite E,1.0
+668,1438,9586 Distribution Ave Suite E,9586 Distribution Ave Suite E,1.0
+678,948,7 Iskarsko Shose Blvd.,7 Iskarsko Shose blvd.,1.0
+684,690,Centro Olimpico Juan Pablo Duarte,Centro Olimpico Juan Pablo Duarte,1.0
+684,838,Centro Olimpico Juan Pablo Duarte,Centro Olimpico Juan Pablo Duarte,1.0
+684,981,Centro Olimpico Juan Pablo Duarte,Centro Olimpico Juan Pablo Duarte,1.0
+684,1302,Centro Olimpico Juan Pablo Duarte,Centro Olímpico Juan Pablo Duarte,0.9655172413793104
+687,730,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+687,740,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+687,765,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+687,799,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+687,835,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+687,886,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+687,900,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+690,838,Centro Olimpico Juan Pablo Duarte,Centro Olimpico Juan Pablo Duarte,1.0
+690,981,Centro Olimpico Juan Pablo Duarte,Centro Olimpico Juan Pablo Duarte,1.0
+690,1302,Centro Olimpico Juan Pablo Duarte,Centro Olímpico Juan Pablo Duarte,0.9655172413793104
+691,695,"Egypt , Cairo , Nasr City , Salah Salem Street , Cairo Stadium , Federations Building , First floor","Egypt , Cairo , Nasr City , Salah Salem Street , Cairo Stadium , Federations Building , First floor",1.0
+693,812,355 N Martin Jischke Dr,355 N Martin Jischke Drive,0.8636363636363636
+693,847,355 N Martin Jischke Dr,355 N Martin Jischke Dr,1.0
+696,801,Ved Stadion 4,Ved Stadion 4,1.0
+696,956,Ved Stadion 4,Ved Stadion 4,1.0
+696,1079,Ved Stadion 4,Ved Stadion 4,1.0
+697,759,13641 Deodara Dr,13641 Deodara Dr,1.0
+698,958,Casablanca,Casablanca,1.0
+700,840,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+700,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+704,994,Masarykova 1313,Masarykova 1313,1.0
+704,1110,Masarykova 1313,Masarykova 1313,1.0
+707,750,Miguel B.. Sánchez 1050,Miguel B.. Sánchez 1050,1.0
+718,1358,350 Victoria Street,379 Victoria Street,0.8823529411764706
+724,867,Badmintonstigen 1,Badmintonstigen 1,1.0
+730,740,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+730,765,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+730,799,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+730,835,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+730,886,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+730,900,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+731,828,Ostrov 363,Ostrov 363,1.0
+731,1041,Ostrov 363,Ostrov 363,1.0
+731,1092,Ostrov 363,Ostrov 363,1.0
+731,1209,Ostrov 363,Ostrov 363,1.0
+740,765,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+740,799,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+740,835,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+740,886,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+740,900,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+742,1208,TRG KREŠIMIRA ČOSIĆA 11,Trg Krešimira Ćosića 11,0.95
+743,757,Dekou str. 4,Dekou Str. 4,1.0
+744,898,Terelststraat 2,Terelststraat 2,1.0
+745,778,81 Remington Road,81 REMINGTON ROAD,1.0
+749,1363,Rajatorpantie 23,Rajatorpantie 23,1.0
+749,1437,Rajatorpantie 23,Rajatorpantie 23,1.0
+755,1276,Noordweg 26,Noordweg 26,1.0
+758,844,2000 Observatory Dr,2000 Observatory Drive,0.85
+764,906,"General Gurko str. 5,",General Gurko str. 5,0.9444444444444444
+764,946,"General Gurko str. 5,",General Gurko str. 5,0.9444444444444444
+764,1315,"General Gurko str. 5,",General Gurko str.5,0.9444444444444444
+765,799,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+765,835,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+765,886,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+765,900,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+770,910,Av. Del Aire Cdra. 8 San Luis,Av. Del Aire Cdra. 9 San Luis,0.9565217391304348
+771,915,Stubište Lipovica,Stubište Lipovica 3,0.9411764705882353
+771,1154,Stubište Lipovica,Stubište Lipovica 3,0.9411764705882353
+775,924,Steinbreche 1,Steinbreche 1,1.0
+777,1459,Sentandrejski put bb,Sentandrejski put 106b,0.8
+782,1082,Cotonou,Cotonou,1.0
+782,1345,Cotonou,Cotonou,1.0
+788,949,6-12-20 Yabasehoncho Akita-shi,6-12-20 Yabasehoncho Akita-shi,1.0
+793,1016,1251 Basswood Road,1251 Basswood Rd,0.8125
+793,1105,1251 Basswood Road,1251 Basswood Rd.,0.8125
+797,952,653 cours de la liberation,653 cours de la liberation,1.0
+797,1078,653 cours de la liberation,653 cours de la liberation,1.0
+798,953,"Taikos pr. 61A,",Taikos pr. 61A,0.9230769230769231
+799,835,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+799,886,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+799,900,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+801,956,Ved Stadion 4,Ved Stadion 4,1.0
+801,1079,Ved Stadion 4,Ved Stadion 4,1.0
+802,935,2 Sredna Gora Str.,2 Sredna Gora Str.,1.0
+803,1080,Bibliotekvej 62,Bibliotekvej 62,1.0
+804,1029,Passeig de la Vall d'Hebron 166-176,Passeig de la Vall d'Hebron 166-176,1.0
+811,1024,3559 Edgemont St.,3559 Edgemont St.,1.0
+811,1094,3559 Edgemont St.,3569 Edgemont st.,0.9333333333333333
+811,1187,3559 Edgemont St.,3569 Edgemont st,0.8666666666666667
+811,1194,3559 Edgemont St.,3569 Edgemont st.,0.9333333333333333
+811,1342,3559 Edgemont St.,3569 Edgemont St.,0.9333333333333333
+811,1390,3559 Edgemont St.,3569 Edgemont st,0.8666666666666667
+812,847,355 N Martin Jischke Drive,355 N Martin Jischke Dr,0.8636363636363636
+813,1125,Juhkentali 12,Juhkentali 12,1.0
+825,961,"NAS Sports Complex NAS Sports Complex, Nad Al Sheba, Dubai – UAE","NAS Sports complex NAS Sports Complex, Nad Al Sheba, Dubai – UAE.",0.9814814814814815
+828,1041,Ostrov 363,Ostrov 363,1.0
+828,1092,Ostrov 363,Ostrov 363,1.0
+828,1209,Ostrov 363,Ostrov 363,1.0
+829,876,1012 Morrisville Parkway,1012 Morrisville Parkway,1.0
+833,1040,Ozo str. 14c,Ozo str. 14C,1.0
+833,1042,Ozo str. 14c,Ozo str. 14c,1.0
+833,1380,Ozo str. 14c,Ozo str. 14C,1.0
+835,886,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+835,900,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+836,1221,220 Westwood Plz,220 Westwood Plaza,0.8125
+838,981,Centro Olimpico Juan Pablo Duarte,Centro Olimpico Juan Pablo Duarte,1.0
+838,1302,Centro Olimpico Juan Pablo Duarte,Centro Olímpico Juan Pablo Duarte,0.9655172413793104
+840,897,3410 Pomona Blvd,3410 Pomona Blvd,1.0
+843,987,Harsfa utca 6.,Hársfa utca 6.,0.9166666666666666
+850,1000,Černelčeva cesta 10,Černelčeva cesta 10,1.0
+850,1112,Černelčeva cesta 10,Cernelceva cesta 10,0.8823529411764706
+854,1159,Parque del Este,Parque del Este,1.0
+860,1248,Ihaste tee 7,Ihaste tee 7,1.0
+860,1249,Ihaste tee 7,Ihaste tee 7,1.0
+860,1400,Ihaste tee 7,Ihaste tee 7,1.0
+865,1019,"Ramkhamhaeng Rd, Khwaeng Hua Mark Khet Bang Kapi Krung Thep Maha Nakhon",Ramkhamhaeng Rd. Khweang Hua Mark Khet Bang Kapi Krung Thep Maha,0.85
+866,1438,9586 Distribution Ave Suite E,9586 Distribution Ave Suite E,1.0
+870,1076,rue du Bois,Rue du Bois,1.0
+875,1032,Badmintonplein 1,Badmintonplein 1,1.0
+886,900,2000 Simcoe Street North,2000 Simcoe Street North,1.0
+889,1072,Ata Kronvalda 7A,Ata Kronvalda 7A,1.0
+906,946,General Gurko str. 5,General Gurko str. 5,1.0
+906,1315,General Gurko str. 5,General Gurko str.5,1.0
+914,1077,600 State Hwy 13,600 State Hwy 13,1.0
+914,1191,600 State Hwy 13,600 State Hwy 13,1.0
+915,1154,Stubište Lipovica 3,Stubište Lipovica 3,1.0
+919,1039,Kronvalda 24,Kronvalda 24,1.0
+919,1190,Kronvalda 24,Kronvalda 24,1.0
+925,1303,Parko str. 12,Parko str. 12,1.0
+938,1267,39375 Cedar Blvd,39375 Cedar Blvd,1.0
+942,1031,2145 Park Blvd,2145 Park Blvd.,0.9230769230769231
+946,1315,General Gurko str. 5,General Gurko str.5,1.0
+952,1078,653 cours de la liberation,653 cours de la liberation,1.0
+956,1079,Ved Stadion 4,Ved Stadion 4,1.0
+959,1286,3775 Park Ave,3775 PARK AVE,1.0
+960,1346,Sportowa 3-5,Sportowa 3/5,0.9090909090909091
+969,1090,Podsusedski trg 14,Podsusedski trg 14b,0.9411764705882353
+969,1204,Podsusedski trg 14,Podsusedski trg 14b,0.9411764705882353
+969,1354,Podsusedski trg 14,Podsusedski trg 14B,0.9411764705882353
+979,1099,An den Sportstätten 6,An den Sportstätten 6,1.0
+979,1417,An den Sportstätten 6,An den Sportstätten 6,1.0
+981,1302,Centro Olimpico Juan Pablo Duarte,Centro Olímpico Juan Pablo Duarte,0.9655172413793104
+983,986,Cite olympique Mohamed boudief-Alger-Algerie,Cite olympique Mohamed Boudiaf -Alger - Agérie,0.8292682926829268
+985,1091,2780 S Reservoir St,2780 S RESERVOIR ST,1.0
+985,1356,2780 S Reservoir St,2780 S Reservoir Street,0.8
+991,1458,846 Lind Ave SW,846 Lind Ave SW SW,0.8571428571428571
+994,1110,Masarykova 1313,Masarykova 1313,1.0
+996,1014,250 King manor Dr.,250 King Manor Dr,0.9333333333333333
+996,1038,250 King manor Dr.,250 King Manor Dr,0.9333333333333333
+996,1064,250 King manor Dr.,250 King Manor Dr,0.9333333333333333
+1000,1112,Černelčeva cesta 10,Cernelceva cesta 10,0.8823529411764706
+1002,1230,Great North road,GREAT NORTH ROAD,1.0
+1002,1385,Great North road,Great North Road,1.0
+1006,1035,2711 Pine Grove Rd,2711 Pine Grove Rd,1.0
+1006,1047,2711 Pine Grove Rd,2711 Pine Grove Rd,1.0
+1006,1231,2711 Pine Grove Rd,2711 Pine Grove Rd,1.0
+1006,1242,2711 Pine Grove Rd,2711 Pine grove road,0.8235294117647058
+1006,1294,2711 Pine Grove Rd,2711 Pine grove road,0.8235294117647058
+1006,1329,2711 Pine Grove Rd,2711 Pine grove rd,1.0
+1006,1387,2711 Pine Grove Rd,2711 Pine grove rd,1.0
+1008,1143,11323 Shoemaker Ave,"11323 SHoemaker Ave.,",0.8947368421052632
+1014,1038,250 King Manor Dr,250 King Manor Dr,1.0
+1014,1064,250 King Manor Dr,250 King Manor Dr,1.0
+1016,1105,1251 Basswood Rd,1251 Basswood Rd.,0.9333333333333333
+1023,1056,Calle Orujo,Calle Orujo 2,0.9090909090909091
+1023,1255,Calle Orujo,Calle Orujo 2,0.9090909090909091
+1024,1094,3559 Edgemont St.,3569 Edgemont st.,0.9333333333333333
+1024,1187,3559 Edgemont St.,3569 Edgemont st,0.8666666666666667
+1024,1194,3559 Edgemont St.,3569 Edgemont st.,0.9333333333333333
+1024,1342,3559 Edgemont St.,3569 Edgemont St.,0.9333333333333333
+1024,1390,3559 Edgemont St.,3569 Edgemont st,0.8666666666666667
+1035,1047,2711 Pine Grove Rd,2711 Pine Grove Rd,1.0
+1035,1231,2711 Pine Grove Rd,2711 Pine Grove Rd,1.0
+1035,1242,2711 Pine Grove Rd,2711 Pine grove road,0.8235294117647058
+1035,1294,2711 Pine Grove Rd,2711 Pine grove road,0.8235294117647058
+1035,1329,2711 Pine Grove Rd,2711 Pine grove rd,1.0
+1035,1387,2711 Pine Grove Rd,2711 Pine grove rd,1.0
+1038,1064,250 King Manor Dr,250 King Manor Dr,1.0
+1039,1190,Kronvalda 24,Kronvalda 24,1.0
+1040,1042,Ozo str. 14C,Ozo str. 14c,1.0
+1040,1380,Ozo str. 14C,Ozo str. 14C,1.0
+1041,1092,Ostrov 363,Ostrov 363,1.0
+1041,1209,Ostrov 363,Ostrov 363,1.0
+1042,1380,Ozo str. 14c,Ozo str. 14C,1.0
+1043,1176,10 New Maple Ave.,10 New Maple Ave,0.9285714285714286
+1047,1231,2711 Pine Grove Rd,2711 Pine Grove Rd,1.0
+1047,1242,2711 Pine Grove Rd,2711 Pine grove road,0.8235294117647058
+1047,1294,2711 Pine Grove Rd,2711 Pine grove road,0.8235294117647058
+1047,1329,2711 Pine Grove Rd,2711 Pine grove rd,1.0
+1047,1387,2711 Pine Grove Rd,2711 Pine grove rd,1.0
+1056,1255,Calle Orujo 2,Calle Orujo 2,1.0
+1060,1152,Pohorska ulica 57,Pohorska ulica 57,1.0
+1062,1087,8202 Lemont Road,8202 Lemont Road,1.0
+1067,1138,2 Changebridge Rd,2 Changebridge Rd,1.0
+1070,1324,2660 Vickers Dr,2660 Vickers Drive,0.8125
+1070,1429,2660 Vickers Dr,2660 Vickers Drive,0.8125
+1077,1191,600 State Hwy 13,600 State Hwy 13,1.0
+1082,1345,Cotonou,Cotonou,1.0
+1085,1147,Flyghamnsvägen 16,Flyghamnsvägen 16,1.0
+1086,1443,COLISEO DEPORTIVO CIUDAD DE LOS DEPORTES ZONA 4.,Coliseo deportivo ciudad de los deportes zona 4,0.975609756097561
+1090,1204,Podsusedski trg 14b,Podsusedski trg 14b,1.0
+1090,1354,Podsusedski trg 14b,Podsusedski trg 14B,1.0
+1091,1356,2780 S RESERVOIR ST,2780 S Reservoir Street,0.8
+1092,1209,Ostrov 363,Ostrov 363,1.0
+1094,1187,3569 Edgemont st.,3569 Edgemont st,0.9333333333333333
+1094,1194,3569 Edgemont st.,3569 Edgemont st.,1.0
+1094,1342,3569 Edgemont st.,3569 Edgemont St.,1.0
+1094,1390,3569 Edgemont st.,3569 Edgemont st,0.9333333333333333
+1097,1433,Liechtensteinov put 10,Liechtensteinov put 10,1.0
+1099,1417,An den Sportstätten 6,An den Sportstätten 6,1.0
+1102,1371,Børmosevej 3,Børmosevej 3,1.0
+1120,1186,575 MERRICK AVE.,575 MERRICK AVENUE,0.8125
+1120,1211,575 MERRICK AVE.,575 Merrick Ave,0.9285714285714286
+1120,1253,575 MERRICK AVE.,575 Merrick Ave,0.9285714285714286
+1131,1157,44380 Old Warm Springs Blvd,44380 Old Warm Springs Blvd,1.0
+1132,1148,42775 9 Mile Rd,42775 9 Mile Rd,1.0
+1132,1388,42775 9 Mile Rd,42775 9 mile rd,1.0
+1148,1388,42775 9 Mile Rd,42775 9 mile rd,1.0
+1160,1453,Liepu al. 4,Liepų al. 4,0.8888888888888888
+1167,1168,Nencho Hristov Str.,Nencho Hristov Str.,1.0
+1167,1305,Nencho Hristov Str.,Nencho Hristov str.,1.0
+1168,1305,Nencho Hristov Str.,Nencho Hristov str.,1.0
+1173,1328,1811 High Grove Ln,1811 HIGHGROVE LANE,0.8235294117647058
+1174,1327,1510 Walker Avenue,1510 Walker Avenue,1.0
+1182,1330,653 avenue de la libération,653 avenue de la libération,1.0
+1186,1211,575 MERRICK AVENUE,575 Merrick Ave,0.8125
+1186,1253,575 MERRICK AVENUE,575 Merrick Ave,0.8125
+1187,1194,3569 Edgemont st,3569 Edgemont st.,0.9333333333333333
+1187,1342,3569 Edgemont st,3569 Edgemont St.,0.9333333333333333
+1187,1390,3569 Edgemont st,3569 Edgemont st,1.0
+1192,1195,Route des Esclaves,Route des Esclaves,1.0
+1194,1342,3569 Edgemont st.,3569 Edgemont St.,1.0
+1194,1390,3569 Edgemont st.,3569 Edgemont st,0.9333333333333333
+1198,1347,Grajska cesta 2,Grajska cesta 2,1.0
+1204,1354,Podsusedski trg 14b,Podsusedski trg 14B,1.0
+1210,1229,2 Olympic Blvd Sydney Olympic Park,4 Olympic Blvd Sydney Olympic Park,0.9655172413793104
+1211,1253,575 Merrick Ave,575 Merrick Ave,1.0
+1225,1287,570A Telser Rd,570a Telser Rd,1.0
+1225,1389,570A Telser Rd,570A Telser Rd,1.0
+1230,1385,GREAT NORTH ROAD,Great North Road,1.0
+1231,1242,2711 Pine Grove Rd,2711 Pine grove road,0.8235294117647058
+1231,1294,2711 Pine Grove Rd,2711 Pine grove road,0.8235294117647058
+1231,1329,2711 Pine Grove Rd,2711 Pine grove rd,1.0
+1231,1387,2711 Pine Grove Rd,2711 Pine grove rd,1.0
+1242,1294,2711 Pine grove road,2711 Pine grove road,1.0
+1242,1329,2711 Pine grove road,2711 Pine grove rd,0.8235294117647058
+1242,1387,2711 Pine grove road,2711 Pine grove rd,0.8235294117647058
+1248,1249,Ihaste tee 7,Ihaste tee 7,1.0
+1248,1400,Ihaste tee 7,Ihaste tee 7,1.0
+1249,1400,Ihaste tee 7,Ihaste tee 7,1.0
+1256,1436,43921 Boscell Rd,43921 Boscell Rd,1.0
+1261,1293,8202 Lemont Rd.,8202 Lemont Rd,0.9230769230769231
+1263,1422,4200 Valley Drive,4200 Valley Drive,1.0
+1268,1314,Traugutta 3B,Traugutta 3B,1.0
+1269,1384,330 River Rd,330 River Rd.,0.9090909090909091
+1269,1413,330 River Rd,330 River Rd,1.0
+1271,1272,251 Britannia Blvd,259 Britannia Blvd,0.9375
+1274,1309,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,1.0
+1274,1368,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,1.0
+1274,1378,2019 Corporate Ln STE 103,2019 Corporate Lane #103,0.8095238095238095
+1274,1404,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,1.0
+1280,1441,1362 Barclay Blvd,1362 Barclay Blvd,1.0
+1287,1389,570a Telser Rd,570A Telser Rd,1.0
+1294,1329,2711 Pine grove road,2711 Pine grove rd,0.8235294117647058
+1294,1387,2711 Pine grove road,2711 Pine grove rd,0.8235294117647058
+1308,1456,91 Rue de la Trocardière,91 Rue de la Trocardière,1.0
+1309,1368,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,1.0
+1309,1378,2019 Corporate Ln STE 103,2019 Corporate Lane #103,0.8095238095238095
+1309,1404,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,1.0
+1324,1429,2660 Vickers Drive,2660 Vickers Drive,1.0
+1325,1463,8 rue Christol de Sigoyer,8 rue Christol de Sigoyer,1.0
+1329,1387,2711 Pine grove rd,2711 Pine grove rd,1.0
+1342,1390,3569 Edgemont St.,3569 Edgemont st,0.9333333333333333
+1363,1437,Rajatorpantie 23,Rajatorpantie 23,1.0
+1368,1378,2019 Corporate Ln STE 103,2019 Corporate Lane #103,0.8095238095238095
+1368,1404,2019 Corporate Ln STE 103,2019 Corporate Ln STE 103,1.0
+1378,1404,2019 Corporate Lane #103,2019 Corporate Ln STE 103,0.8095238095238095
+1384,1413,330 River Rd.,330 River Rd,0.9090909090909091

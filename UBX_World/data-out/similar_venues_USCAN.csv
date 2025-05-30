@@ -1,0 +1,78 @@
+Venue1_Id,Venue2_Id,Venue_Name1,Venue_Name2,Similarity
+8,134,Orange County Badminton Club,Orange County Badminton CLub,1.0
+8,259,Orange County Badminton Club,"Orange County Badminton Club,",0.9615384615384616
+8,1200,Orange County Badminton Club,Orange County Badminton Club (OCBC),0.8064516129032258
+32,541,John Bowne High School,JOHN BOWNE HIGH SCHOOL GYM,0.8636363636363636
+33,728,Bay Badminton Club,K-W Badminton Club,0.8125
+47,81,CP Badminton Club(CPBC),CP Badminton Club (CPBC),1.0
+47,290,CP Badminton Club(CPBC),NJ Badminton Club (NJBC),0.8095238095238095
+57,104,Bellevue badminton club,Bellevue Badminton Club,1.0
+66,267,California Badminton Academy,California Badminton Academy (CBA),0.8387096774193549
+69,86,JOHN BOWNE HS gym,JOHN BOWNE HS GYM,1.0
+77,215,Los Angeles Badminton Clib,Los Angeles Badminton Club,0.9565217391304348
+79,641,Bintang Badminton SSF,Bintang Badminton,0.8421052631578947
+81,290,CP Badminton Club (CPBC),NJ Badminton Club (NJBC),0.8095238095238095
+82,763,Boston Badminton Club,Boston Badminton club,1.0
+88,1001,Bay Badminton Center,DFW Badminton Center,0.8333333333333334
+98,166,CP Badminton Club,NJ Badminton Club,0.8666666666666667
+120,741,Kingston Collegiate & V. I.,Kingston Collegiate & VI,0.8695652173913043
+134,259,Orange County Badminton CLub,"Orange County Badminton Club,",0.9615384615384616
+134,1200,Orange County Badminton CLub,Orange County Badminton Club (OCBC),0.8064516129032258
+136,230,University of Central Oklahoma- Wellness Center,University of Central Oklahoma - Wellness Center,1.0
+144,200,Badminton Center Court,Badminton Center Court Inc.,0.8333333333333334
+144,236,Badminton Center Court,Badminton Center Court (BCC),0.8
+148,959,International Badminton Center,International Badminton Club,0.8214285714285714
+148,1286,International Badminton Center,INTERNATIONAL BADMINTON CENTER EDISON,0.8235294117647058
+150,263,Richmond Olympic Oval,"Richmond Olympic Oval,",0.95
+174,1022,Richmond Pro Badminton Centre,RichmondPro Badminton Centre,1.0
+200,236,Badminton Center Court Inc.,Badminton Center Court (BCC),0.84
+211,320,School of Public Health UMD,School of Public Health,0.8695652173913043
+259,1200,"Orange County Badminton Club,",Orange County Badminton Club (OCBC),0.8064516129032258
+264,537,Cleveland Convention Center,Cleveland Convention Center Hall A,0.8333333333333334
+295,973,Eastbay Badminton Association,EastBay Badminton Association,1.0
+316,1131,Synergy Badminton Club,Synergy Badminton,0.8
+367,1247,Boston Badminton,Austin Badminton,0.8
+376,451,Northside Aztlan Community Center,Northsize Aztlan Community Center,0.9666666666666667
+384,1012,Midwest Badminton Club - Naperville,Midwest Badminton Club-Naperville,1.0
+420,712,Northern Virginia Badminton Club,NORTHERN VIRGINIA BADMINTON CLUB,1.0
+427,1106,Plano Badminton Center,Elite Badminton Center,0.8
+427,1455,Plano Badminton Center,ELITE BADMINTON CENTER,0.8
+437,527,"Maugus Club,",Maugus Club,0.9090909090909091
+473,1221,UCLA - Student Activities Center,UCLA - Student Activities Center (SAC),0.8484848484848485
+487,1016,Egret Badminton Club,EGRET Badminton Club,1.0
+533,641,Bintang Badmitnon,Bintang Badminton,0.875
+539,1106,Egret Badminton Center,Elite Badminton Center,0.8
+539,1455,Egret Badminton Center,ELITE BADMINTON CENTER,0.8
+593,1263,SPH GYM 2101,SPH Gym 2101,1.0
+604,688,ClearOne Sports Center,ClearOne Sports Centre,0.9
+631,918,Shannon Pohl Badminton Academy / Adversity Volleyball Center,Shannon Pohl Badminton Academy (Adveristy Volleyball Center),0.9259259259259259
+631,1299,Shannon Pohl Badminton Academy / Adversity Volleyball Center,Shannon Pohl Badminton Academy/Adversity Volleyball Center,1.0
+657,1285,Atlanta Badminton Club,Atlanta Badminton Club 2,0.9523809523809523
+700,897,San Gabriel Valley Badminton Club (SGVBC),San Gabriel Valley Badminton Club - Pomona,0.8055555555555556
+730,740,"Campus Recreation and Wellness Centre, UOIT",Campus Recreation and Wellness Centre (UOIT),0.9487179487179487
+811,1194,Club28 Badminton Philadelphia,Club28 badminton Philadelphia,1.0
+811,1342,Club28 Badminton Philadelphia,Club 28 badminton Philadelphia,1.0
+829,876,Triangle Badminton Club (TBC),Triangle Badminton Club,0.8076923076923077
+891,1356,Arena Badminton & Sports Club,Arena Badminton & Sport Club,0.8
+918,1299,Shannon Pohl Badminton Academy (Adveristy Volleyball Center),Shannon Pohl Badminton Academy/Adversity Volleyball Center,0.9259259259259259
+970,1006,Atlanta Recreation club,Atlanta Recreation Club,1.0
+970,1047,Atlanta Recreation club,ATLANTA RECREATION CLUB,1.0
+996,1014,Smashville MainLine,Smashville Mainline,1.0
+1006,1047,Atlanta Recreation Club,ATLANTA RECREATION CLUB,1.0
+1007,1043,IBC 2,IBC2,1.0
+1024,1094,Club28 Badminton,Club 28 Badminton,1.0
+1024,1187,Club28 Badminton,Club28 badminton,1.0
+1067,1138,New Jersey Badminton Club,New Jersey Badminton CLub,1.0
+1094,1187,Club 28 Badminton,Club28 badminton,1.0
+1106,1455,Elite Badminton Center,ELITE BADMINTON CENTER,1.0
+1120,1186,LONG ISLAND BADMINTON CENTER,LONG ISLAND BADMINTON CENTER (LIBC),0.8064516129032258
+1120,1211,LONG ISLAND BADMINTON CENTER,Long Island Badminton Center,1.0
+1130,1134,South Jersey Indoor Sports Club,South Jersey Indoor Sports Center,0.8275862068965517
+1186,1211,LONG ISLAND BADMINTON CENTER (LIBC),Long Island Badminton Center,0.8064516129032258
+1194,1342,Club28 badminton Philadelphia,Club 28 badminton Philadelphia,1.0
+1225,1389,Chicago Badminton Academy,chicago badminton academy,1.0
+1231,1294,NETS & TURF,Nets & Turf,1.0
+1242,1329,Nets and Turf,Nets and turf,1.0
+1274,1378,MBC @ NAPERVILLE,MBC - Naperville,0.9285714285714286
+1384,1413,Ramsey Student Center; Gym East,Ramsey Student Center - Gym East,0.9629629629629629
+1405,1420,Pioneer Badminton Club,Pioneer Badminton,0.8
